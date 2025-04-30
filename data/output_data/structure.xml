@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <headerInfo active="1"/>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+      <listTerm active="1" lang="def">LIST_TERM</listTerm>
+   </liste>
+   <editions>
+      <edition data-key="interp">Interpretative</edition>
+   </editions>
+   <textpage>
+      <text n="ovid_met" label="Métamorphoses">
+         <pb n="1">ovid_page-1</pb>
+         <pb n="2">ovid_page-2</pb>
+         <pb n="3">ovid_page-3</pb>
+         <pb n="4">ovid_page-4</pb>
+         <pb n="5">ovid_page-5</pb>
+         <pb n="6">ovid_page-6</pb>
+         <pb n="7">ovid_page-7</pb>
+         <pb n="8">ovid_page-8</pb>
+         <pb n="9">ovid_page-9</pb>
+         <pb n="10">ovid_page-10</pb>
+         <pb n="11">ovid_page-11</pb>
+         <pb n="12">ovid_page-12</pb>
+         <pb n="13">ovid_page-13</pb>
+         <pb n="14">ovid_page-14</pb>
+         <pb n="15">ovid_page-15</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="1">ovid_page-1</pb>
+      </pair>
+      <pair>
+         <pb n="2">ovid_page-2</pb>
+      </pair>
+      <pair>
+         <pb n="3">ovid_page-3</pb>
+      </pair>
+      <pair>
+         <pb n="4">ovid_page-4</pb>
+      </pair>
+      <pair>
+         <pb n="5">ovid_page-5</pb>
+      </pair>
+      <pair>
+         <pb n="6">ovid_page-6</pb>
+      </pair>
+      <pair>
+         <pb n="7">ovid_page-7</pb>
+      </pair>
+      <pair>
+         <pb n="8">ovid_page-8</pb>
+      </pair>
+      <pair>
+         <pb n="9">ovid_page-9</pb>
+      </pair>
+      <pair>
+         <pb n="10">ovid_page-10</pb>
+      </pair>
+      <pair>
+         <pb n="11">ovid_page-11</pb>
+      </pair>
+      <pair>
+         <pb n="12">ovid_page-12</pb>
+      </pair>
+      <pair>
+         <pb n="13">ovid_page-13</pb>
+      </pair>
+      <pair>
+         <pb n="14">ovid_page-14</pb>
+      </pair>
+      <pair>
+         <pb n="15">ovid_page-15</pb>
+      </pair>
+   </pages>
+   <idno/>
+</xml>
