@@ -4,7 +4,7 @@
    <head>
       <meta http-equiv="Content-Type" content="text/plain; charset=UTF-8">
       <meta property="og:title" content="Metamorphoses Machine readable text">
-      <meta property="og:image" content="./data/input_data/images/thumb_fb.jpg">
+      <meta property="og:image" content="./data/input_data/images/">
       <title>Metamorphoses Machine readable text</title>
       <link rel="stylesheet" type="text/css" href="./css/main.css">
       <link rel="stylesheet" type="text/css" href="./css/page_data-include.css">
@@ -16,7 +16,7 @@
       <link rel="stylesheet" type="text/css" href="./css/BRnav.css"><script type="text/javascript" src="./js/plugin/jquery-lang.js"></script><script type="text/javascript" src="./config/langpack/en.js"></script><script type="text/javascript" src="./config/langpack/it.js"></script><script type="text/javascript" src="./config/langpack/fr.js"></script><script type="text/javascript" src="./config/langpack/de.js"></script><script type="text/javascript" src="./config/langpack/cs.js"></script><link rel="stylesheet" type="text/css" href="./config/evt_builder-custom-styles.css">
    </head>
    <body data-prose-verses-feature="active">
-      <div id="global_wrapper" data-image-extension="jpg">
+      <div id="global_wrapper" data-image-extension="png">
          <div id="global_loading">
             <div><i class="fa fa-spinner fa-spin fa-lg"></i><span id="loading_msg">
                   <div id="ui_init_msg" lang="def">EVT_INIT</div>
@@ -68,8 +68,23 @@
          <div id="welcomeInfo_cont" class="dialog" data-content="welcomeInfo">
             <div id="welcomeInfo" class="dialog_cont"><a href="javascript:void(0);" id="close_welcome_info_cont" class="dialog_close" data-dialog="welcomeInfo_cont" title="CLOSE" lang="def"><i class="fa fa-close"></i></a><div id="welcomeInfo_content_top">
                   <div>
-                     <p class="title main">Bienvenue dans cette édition numérique créée avec EVT.</p>
+                     <p class="title main">Bienvenue dans cette édition numérique des Métamorphoses créée avec EVT 1</p>
                   </div>
+                  <div>Cette édition fait partie de mon mémoire de recherche de 2e année de Master Humanités
+                     classiques et huamnités numériques à l'Université Paris 10 Nanterre, sous la direction
+                     de monsieur Aurélien Berra.</div>
+                  <div>Pour plus d'informations sur l'utilisation de la présente édition, référez-vous au
+                     manuel dans le dossier "doc". 
+                     Pour plus d'infirmations concernant le mémoire, vous pouvez consulter le dépôt en
+                     ligne <a href="https://github.com/pax3l/m2_ovid_deities_analysis_for_quarto">ici</a>.
+                     Si vous avez des questions, des suggestions ou que vous repérez un bug, n'hésitez
+                     pas à laisser une issue sur <a href="">ce dépôt</a>.
+                     
+                     For more information refer to the EVT Manual in the "doc" folder.
+                     If you have any suggestions or spot an error/bug please contact us at
+                     <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></div>
+                  <div>Bonne lecture !</div>
+                  <div>Axelle Penture</div>
                </div>
                <div id="welcomeInfo_content_center"><i class="fa fa-caret-down"></i></div>
                <div id="welcomeInfo_content_bottom"><a href="javascript:void(0);" id="button_welcome_info_cont" class="closeDialog" data-dialog="welcomeInfo_cont" title="CLOSE" lang="def"><button class="button_welcome">start</button></a><div class="neverShowDiv"><input type="checkbox" checked class="neverShowAgain"><span lang="def">NEVER_SHOW_AGAIN</span></div>
@@ -80,47 +95,53 @@
             <div id="EVTinfo" class="dialog_cont"><a href="javascript:void(0);" class="dialog_close" data-dialog="EVTinfo_cont" title="CLOSE" lang="def"><i class="fa fa-close"></i></a><div class="title main">Information about EVT</div>
                <div class="dialog_separator"><i class="fa fa-caret-down"></i></div>
                <div id="EVTinfo_content" class="dialog_cont_inner">
-                  <p>EVT (Edition Visualization Technology) is a software for creating and browsing digital
-                     			editions of manuscripts based on text encoded according to the TEI XML schemas
-                     and
-                     			Guidelines. This tool was born as part of the DVB (<a href="http://vbd.humnet.unipi.it/" target="blank"> Digital Vercelli Book</a>) project in order to allow the creation of
-                     			a digital edition of the Vercelli Book, a parchment codex of the late tenth century,
-                     now
-                     			preserved in the Archivio e Biblioteca Capitolare of Vercelli and regarded as one
-                     of the
-                     			four most important manuscripts of the Anglo-Saxon period as regards the transmission
-                     of
-                     			poetic texts in the Old English language. </p>
+                  <p>EVT (Edition Visualization Technology) is a software for creating and browsing
+                     digital editions of manuscripts based on text encoded according to the TEI XML schemas
+                     and Guidelines.
+                     This tool was born as part of the DVB (Digital Vercelli Book) project in order to
+                     allow the creation of
+                     a digital edition of the Vercelli Book, a parchment codex of the late tenth century,
+                     now preserved in the Archivio e Biblioteca Capitolare of Vercelli and regarded as
+                     one of the four most
+                     important manuscripts of the Anglo-Saxon period as regards the transmission of poetic
+                     texts in the Old English language.
+                     </p>
                   <p>To ensure that it will be working on all the most recent web browsers, and for as
-                     long as
-                     			possible on the World Wide Web itself, EVT is built on open and standard web
-                     			technologies such as HTML, CSS and JavaScript. Specific features, such as the magnifying
-                     			lens, are entrusted to jQuery plugins, again chosen among the open source and best
-                     			supported ones to reduce the risk of future incompatibilities. The general architecture
-                     			of the software, in any case, is modular, so that any component which may cause
-                     trouble
-                     			or turn out to be not completely up to the task can be replaced easily.</p>
+                     long as possible on the World
+                     Wide Web itself, EVT is built on open and standard web technologies such as HTML,
+                     CSS and JavaScript. Specific
+                     features, such as the magnifying lens, are entrusted to jQuery plugins, again chosen
+                     among the open source and
+                     best supported ones to reduce the risk of future incompatibilities. The general architecture
+                     of the software,
+                     in any case, is modular, so that any component which may cause trouble or turn out
+                     to be not completely up to
+                     the task can be replaced easily.</p>
                   <p>For more information about how to use and/or customize EVT please refer to the EVT
-                     Manual
-                     			included in the archive you downloaded, in the "doc" folder.</p>
+                     Manual included in the
+                     archive you downloaded, in the "doc" folder.</p>
                   <p>EVT is used in the following projects:</p>
                   <ul>
-                     <li><a href="http://pelavicino.labcd.unipi.it/" target="blank">Codice Pelavicino
-                           					Digitale</a></li>
+                     <li><a href="http://pelavicino.labcd.unipi.it/" target="blank">Codice Pelavicino Digitale</a></li>
                      <li><a href="http://vbd.humnet.unipi.it/" target="blank">Vercelli Book Digitale</a></li>
                   </ul>
-                  <p>EVT has a home page <a href="http://evt.labcd.unipi.it/" target="blank">here</a> and an
-                     			older one in the <a href="https://sourceforge.net/p/evt-project/" target="blank">SourceForge</a> repository, but development is done on <a href="https://github.com/evt-project/evt-builder" target="blank">GitHub</a>: if you
-                     			are interested in learning more about EVT and/or in adapting it to your specific
-                     needs
-                     			please contact the project Director, Roberto Rosselli Del Turco <a href="mailto:roberto.rossellidelturco@gmail.com" target="_top">roberto.rossellidelturco@gmail.com</a>.</p>
-                  <p>If you have any suggestions or spot an error/bug please contact us at <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></p>
+                  <p>EVT has a home page in the <a href="https://sourceforge.net/p/evt-project/" target="blank">SourceForge</a> repository,
+                     but development is done on Gitlab and Github: if you are interested in learning more
+                     about EVT and/or
+                     in adapting it to your specific needs please contact the project Director, Roberto
+                     Rosselli Del Turco
+                     <a href="mailto:roberto.rossellidelturco@gmail.com" target="_top">roberto.rossellidelturco@gmail.com</a>.</p>
+                  <p>If you have any suggestions or spot an error/bug please contact us at
+                     <a href="mailto:evt.developers@gmail.com">evt.developers@gmail.com</a></p>
                </div>
             </div>
          </div>
          <div id="headerInfo_cont" class="dialog" data-content="headerInfo"></div>
+         <div id="generalBiblio_cont" class="dialog" data-content="generalBiblio"></div>
          <header id="main_header">
-            <div id="home_title">Ovide, Les Métamorphoses</div>
+            <div id="home_title">Les Métamorphoses d’Ovide —&nbsp;Apollon, Jupiter, Minerve
+               <div id="badge_title">DIGITAL</div>
+            </div>
             <div class="concave">
                <div class="extTop">
                   <div class="topleftconcave"></div>
@@ -134,6 +155,10 @@
             <div class="setting_row button_like" id="info_link">
                <div class="setting_row_title"><i class="fa fa-info-circle"></i><span lang="def">PROJECT_INFO</span></div>
             </div>
+            <div class="setting_row button_like" id="biblio_link">
+               <div class="setting_row_title"><i class="fa fa-book"></i><span lang="def">BIBLIO</span></div>
+            </div>
+            <div class="setting_row button_like" id="biblio_link"><a class="setting_row_title" href="https://github.com/pax3l/m2_ovid_deities_analysis_for_quarto" target="blank"><i class="fa fa-external-link"></i><span lang="def">VISIT_WEB_SITE</span></a></div>
             <div class="setting_row">
                <div class="setting_row_title"><i class="fa fa-language"></i><span lang="def">LANGUAGES</span>:</div>
                <div class="setting_row_content"><img src="images/en.gif" class="flag active" data-value="en" lang="def" title="ENGLISH" alt="ENG"><img src="images/fr.gif" class="flag" data-value="fr" lang="def" title="FRENCH" alt="FR"><img src="images/ita.gif" class="flag" data-value="it" lang="def" title="ITALIAN" alt="ITA"><img src="images/de.png" class="flag" data-value="de" lang="def" title="GERMAN" alt="GER"><img src="images/cs.png" class="flag" data-value="cs" lang="def" title="CZECH" alt="CZE"></div>
@@ -144,10 +169,13 @@
          </div>
          <section id="central_wrapper"><i class="fa fa-caret-up" id="header_collapse" data-action="collapse" title="TOGGLE_MENU" lang="def"></i><div class="main_left_arrow" onclick="UnInitialize()" title="PREVIOUS_PAGE" lang="def"></div>
             <div class="main_right_arrow" title="NEXT_PAGE" lang="def"></div>
-            <div id="main_left_frame" class="main_frame" style="width:0px; border-left-width:0px; border-right-width:0px;"><i class="fa fa-caret-up go-full-left" id="goFullScreenLeft" title="EXPAND_FRAME" lang="def"></i><header id="left_header" class="top-menu"><i class="fa fa-times-circle closeFullScreen" id="closeFullScreenLeft" title="COLLAPSE_FRAME" lang="def"></i><div id="left_menu"><span id="span_ee_select-add" class=" like_select " title="SELECTOR_EDITION_LEVEL" lang="def">
+            <div id="main_left_frame" class="main_frame" style="width:0px; border-left-width:0px; border-right-width:0px;"><i class="fa fa-caret-up go-full-left" id="goFullScreenLeft" title="EXPAND_FRAME" lang="def"></i><header id="left_header" class="top-menu"><i class="fa fa-times-circle closeFullScreen" id="closeFullScreenLeft" title="COLLAPSE_FRAME" lang="def"></i><div id="left_menu"><span id="span_dd_select" class="like_select" lang="def" title="SELECTOR_DOUBLE_PAGE">
+                        <div class="main_dd_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
+                           <div class="option_container down"></div>
+                        </div></span><span id="thumb_elem-add" class="iconButtons"><a href="javascript:void(0);" class="thumb_link" title="THUMBNAILS" lang="def"><span lang="def">THUMBS</span><i class="fa fa-th"></i></a></span><span id="span_ee_select-add" class=" like_select " title="SELECTOR_EDITION_LEVEL" lang="def">
                         <div class="main_ee_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
                            <div class="option_container down"></div>
-                        </div></span></div>
+                        </div></span><span class="imageTopTool mainButtons toggleFront" id="switchFront-add" value="info" title="INFORMATION_ABOUT_THIS_TEXT" lang="def"><span lang="def">INFO</span><i class="fa fa-info"></i></span></div>
                </header>
                <div id="search_cont-add" class="collapsed bottomBox searchContainer">
                   <div id="search_header-add" class="bottomBoxHeader"><span id="toggle_search_cont-add" class="mainButtons small toggleSearchButton" data-boxsuffix="-add" title="TOGGLE_SEARCH" lang="def"><i class="fa fa-angle-double-up"></i></span><span id="keyboard_link-add" class="mainButtons small searchKeyboardButton  hidden" data-boxsuffix="-add" title="TOGGLE_KEYBOARD" lang="def"><i class="fa fa-keyboard-o"></i></span><span id="search_case_sensitive_toggler-add" class="mainButtons small searchCaseSensitiveButton" data-boxsuffix="-add" title="TOGGLE_CASE_SENSITIVE" lang="def"><i class="fake-icon">
@@ -164,8 +192,9 @@
                </div>
                <div id="text_tool-add" class="bottom-menu hidden"><span id="toggleVersesProseBtn-add" class="mainButtons" data-active-status="prose" data-boxsuffix="" onclick="toggleProseVerses(this)" title="versi/prosa" lang="def"><span lang="def">VERSES</span><i class="fa fa-align-left" aria-hidden="true"></i></span><span id="search_link-add" class="mainButtons searchButton" data-boxsuffix="-add" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="span_list_select-add" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
                      <div class="main_list_select"><span data-value="none" class="label_selected" lang="def">NO_SELECTION</span><div class="open_select open_up"><i class="fa fa-sort-asc"></i></div>
-                        <div class="option_container up"><span lang="def" class="groupTitle" title="NAMED_ENTITIES"><span lang="def">NAMED_ENTITIES</span></span><div class="option" data-value="persName" lang="def" title="persName" data-label="PERSNAME"><i class="fa fa-circle filter_color"></i><span lang="def">PERSNAME</span></div>
-                           <div class="option" data-value="name" lang="def" title="name" data-type="divin" data-label="Noms divins"><i class="fa fa-circle filter_color"></i><span lang="def">Noms divins</span></div>
+                        <div class="option_container up"><span lang="def" class="groupTitle" title="Entités nommées"><span lang="def">Entités nommées</span></span><div class="option" data-value="persName" lang="def" title="persName" data-label="Divinités"><i class="fa fa-circle filter_color"></i><span lang="def">Divinités</span></div>
+                           <div class="option" data-value="sp" lang="def" title="sp" data-label="Narrateur"><i class="fa fa-circle filter_color"></i><span lang="def">Narrateur</span></div><span lang="def" class="groupTitle" title="Structure"><span lang="def">Structure</span></span><div class="option" data-value="milestone" lang="def" title="milestone" data-label="MILESTONE"><i class="fa fa-circle filter_color"></i><span lang="def">MILESTONE</span></div>
+                           <div class="option" data-value="div" lang="def" title="div" data-type="textpart" data-subtype="book" data-label="livre"><i class="fa fa-circle filter_color"></i><span lang="def">livre</span></div>
                            <div class="option" data-value="all" lang="def">SELECT_ALL</div>
                            <div class="option" data-value="clear" lang="def">CLEAR_SELECTION</div>
                         </div>
@@ -175,13 +204,14 @@
                   <div id="right_menu"><span id="span_tt_select" class="like_select" title="SELECTOR_TEXT" lang="def">
                         <div class="main_tt_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
                            <div class="option_container down"></div>
-                        </div></span><span id="span_pp_select" class="like_select right_menu groupByDoc" title="SELECTOR_PAGE" lang="def">
+                        </div></span><span id="span_pp_select" class="like_select right_menu groupByDoc optionDocTooltip" title="SELECTOR_PAGE" lang="def">
                         <div class="main_pp_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
                            <div class="option_container down"></div>
                         </div></span><span id="span_ee_select" title="SELECTOR_EDITION_LEVEL" lang="def" class="like_select ">
                         <div class="main_ee_select"><span class="label_selected"></span><div class="open_select"><i class="fa fa-sort-desc"></i></div>
                            <div class="option_container down"></div>
-                        </div></span></div><i class="fa fa-times-circle closeFullScreen" id="closeFullScreenRight" title="COLLAPSE_FRAME" lang="def"></i></header>
+                        </div></span><span class="imageTopTool mainButtons toggleFront " id="switchFront" value="reg" title="INFORMATION_ABOUT_THIS_TEXT" lang="def"><span lang="def">INFO</span><i class="fa fa-info-circle"></i></span></div><i class="fa fa-times-circle closeFullScreen" id="closeFullScreenRight" title="COLLAPSE_FRAME" lang="def"></i></header>
+               <div id="front_cont" class="text-box can-change-font-size inner_frame "></div>
                <div id="text_cont" class="text-box can-change-font-size inner_frame">
                   <div id="text_elem">
                      <div id="front_frame"></div>
@@ -216,8 +246,9 @@
                   </div>
                </div><span id="inside_left_arrow" title="PREVIOUS_DOCUMENT" lang="def"><i class="fa fa-chevron-up"></i></span><span id="inside_right_arrow" title="NEXT_DOCUMENT" lang="def"><i class="fa fa-chevron-down"></i></span><div id="text_tool" class="bottom-menu"><span id="toggleVersesProseBtn" class="mainButtons" data-active-status="prose" data-boxsuffix="" onclick="toggleProseVerses(this)" title="versi/prosa" lang="def"><span lang="def">Versi</span><i class="fa fa-align-left" aria-hidden="true"></i></span><span id="search_link" class="mainButtons searchButton" data-boxsuffix="" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="list_link" class="mainButtons" title="OPEN_LISTS" lang="def"><span lang="def">LISTS</span><i class="fa fa-list"></i></span><span id="span_list_select" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
                      <div class="main_list_select"><span data-value="none" class="label_selected" lang="def">NO_SELECTION</span><div class="open_select open_up"><i class="fa fa-sort-asc"></i></div>
-                        <div class="option_container up"><span lang="def" class="groupTitle" title="NAMED_ENTITIES"><span lang="def">NAMED_ENTITIES</span></span><div class="option" data-value="persName" lang="def" title="persName" data-label="PERSNAME"><i class="fa fa-circle filter_color"></i><span lang="def">PERSNAME</span></div>
-                           <div class="option" data-value="name" lang="def" title="name" data-type="divin" data-label="Noms divins"><i class="fa fa-circle filter_color"></i><span lang="def">Noms divins</span></div>
+                        <div class="option_container up"><span lang="def" class="groupTitle" title="Entités nommées"><span lang="def">Entités nommées</span></span><div class="option" data-value="persName" lang="def" title="persName" data-label="Divinités"><i class="fa fa-circle filter_color"></i><span lang="def">Divinités</span></div>
+                           <div class="option" data-value="sp" lang="def" title="sp" data-label="Narrateur"><i class="fa fa-circle filter_color"></i><span lang="def">Narrateur</span></div><span lang="def" class="groupTitle" title="Structure"><span lang="def">Structure</span></span><div class="option" data-value="milestone" lang="def" title="milestone" data-label="MILESTONE"><i class="fa fa-circle filter_color"></i><span lang="def">MILESTONE</span></div>
+                           <div class="option" data-value="div" lang="def" title="div" data-type="textpart" data-subtype="book" data-label="livre"><i class="fa fa-circle filter_color"></i><span lang="def">livre</span></div>
                            <div class="option" data-value="all" lang="def">SELECT_ALL</div>
                            <div class="option" data-value="clear" lang="def">CLEAR_SELECTION</div>
                         </div>
