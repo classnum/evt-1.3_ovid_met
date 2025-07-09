@@ -127,9 +127,9 @@
 	<text>
 		<body>
 			<div type="edition" xml:lang="lat" n="urn:cts:latinLit:phi0959.phi006.perseus-lat2" xml:id="edition_principale">
-				<div type="textpart" subtype="book" xml:id="book1" n="1">
+				<div type="textpart" subtype="book" n="1">
 					<milestone ed="Magnus" n="Invocatio." unit="tale"/>
-					<milestone ed="More" n="Invocation" unit="tale" xml:id="e_inv"/>
+					<milestone ed="More" n="Invocation" unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">In nova fert animus mutatas dicere formas</l>
 						<l n="2">corpora; di, coeptis (nam vos mutastis et illas)</l>
@@ -137,7 +137,7 @@
 						<l n="4">ad mea perpetuum deducite tempora carmen.</l>
 					</sp>
 					<sp who="Ovid" ana="narr">
-						<milestone ed="Magnus" n="Mundi origo." unit="tale" xml:id="e_mun"/>
+						<milestone ed="Magnus" n="Mundi origo." unit="tale"/>
 						<l n="5">Ante mare et terras et quod tegit omnia caelum</l>
 						<l n="6">unus erat toto naturae vultus in orbe,</l>
 						<l n="7">quem dixere chaos: rudis indigestaque moles</l>
@@ -222,7 +222,7 @@
 						<l n="86">iussit et erectos ad sidera tollere vultus.</l>
 						<l n="87">Sic, modo quae fuerat rudis et sine imagine, tellus</l>
 						<l n="88">induit ignotas hominum conversa figuras.</l>
-						<milestone ed="Magnus" n="Quattuor aetates. Gigantes." unit="tale" xml:id="e_qua"/>
+						<milestone ed="Magnus" n="Quattuor aetates. Gigantes." unit="tale"/>
 						<l n="89">Aurea prima sata est aetas, quae vindice nullo,</l>
 						<l n="90">sponte sua, sine lege fidem rectumque colebat.</l>
 						<l n="91">Poena metusque aberant, nec verba minantia fixo</l>
@@ -288,7 +288,7 @@
 						<l n="148">filius ante diem patrios inquirit in annos.</l>
 						<l n="149">Victa iacet pietas, et virgo caede madentis,</l>
 						<l n="150">ultima caelestum terras Astraea reliquit.</l>
-						<milestone ed="More" n="Giants" unit="tale" xml:id="e_gia"/>
+						<milestone ed="More" n="Giants" unit="tale"/>
 						<l n="151">Neve foret terris securior arduus aether,</l>
 						<l n="152">adfectasse ferunt regnum caeleste Gigantas</l>
 						<l n="153">altaque congestos struxisse ad sidera montes.</l>
@@ -302,7 +302,7 @@
 						<l n="160">in faciem vertisse hominum. Sed et illa propago</l>
 						<l n="161">contemptrix superum saevaeque avidissima caedis</l>
 						<l n="162">et violenta fuit: scires e sanguine natos.</l>
-						<milestone ed="Magnus" n="Lycaon." unit="tale" xml:id="e_lyc"/>
+						<milestone ed="Magnus" n="Lycaon." unit="tale"/>
 						<l n="163">Quae <persName ref="IUP" type="narrative" ana="NA"
 								>pater</persName> ut summa vidit <persName ref="IUP"
 								type="narrative" ana="NA">Saturnius</persName> arce,</l>
@@ -404,7 +404,7 @@
 						<l n="237">fit lupus et veteris servat vestigia formae.</l>
 						<l n="238">Canities eadem est, eadem violentia vultus,</l>
 						<l n="239">idem oculi lucent, eadem feritatis imago est.</l>
-						<milestone ed="More" n="The Deluge" unit="tale" xml:id="e_del"/>
+						<milestone ed="More" n="The Deluge" unit="tale"/>
 						<l n="240">Occidit una domus. Sed non domus una perire</l>
 						<l n="241">digna fuit: qua terra patet, fera regnat Erinys.</l>
 						<l n="242">In facinus iurasse putes. Dent ocius omnes</l>
@@ -420,7 +420,7 @@
 						<l n="250">Talia quaerentes (sibi enim fore cetera curae)</l>
 						<l n="251">rex superum trepidare vetat subolemque priori</l>
 						<l n="252">dissimilem populo promittit origine mira.</l>
-						<milestone ed="Magnus" n="Diluvium. Deucalion et Pyrrha." unit="tale" xml:id="e_dil"/>
+						<milestone ed="Magnus" n="Diluvium. Deucalion et Pyrrha." unit="tale"/>
 						<l n="253">Iamque erat in totas sparsurus fulmina terras:</l>
 						<l n="254">sed timuit, ne forte sacer tot ab ignibus aether</l>
 						<l n="255">conciperet flammas longusque ardesceret axis:</l>
@@ -629,7 +629,7 @@
 						<l n="413">et de femineo reparata est femina iactu.</l>
 						<l n="414">Inde genus durum sumus experiensque laborum</l>
 						<l n="415">et documenta damus qua simus origine nati.</l>
-						<milestone ed="Magnus" n="Python." unit="tale" xml:id="e_pyt"/>
+						<milestone ed="Magnus" n="Python." unit="tale"/>
 						<l n="416">Cetera diversis tellus animalia formis</l>
 						<l n="417">sponte sua peperit, postquam vetus umor ab igne</l>
 						<l n="418">percaluit solis, caenumque udaeque paludes</l>
@@ -667,7 +667,7 @@
 						<l n="450">nondum laurus erat, longoque decentia crine</l>
 						<l n="451">tempora cingebat de qualibet arbore <persName ref="APO"
 								type="narrative" ana="NA">Phoebus</persName>.</l>
-						<milestone ed="Magnus" n="Daphne." unit="tale" xml:id="e_dap"/>
+						<milestone ed="Magnus" n="Daphne." unit="tale"/>
 						<l n="452">Primus amor <persName ref="APO" type="narrative" ana="NA"
 								>Phoebi</persName> Daphne Peneia, quem non</l>
 						<l n="453">fors ignara dedit, sed saeva Cupidinis ira.</l>
@@ -868,7 +868,7 @@
 					<sp who="Ovid" ana="narr">
 						<l n="565">Finierat Paean: factis modo laurea ramis</l>
 						<l n="566">adnuit utque caput visa est agitasse cacumen.</l>
-						<milestone ed="Magnus" n="Io. Argus. Syrinx." unit="tale" xml:id="e_ioa"/>
+						<milestone ed="Magnus" n="Io. Argus. Syrinx." unit="tale"/>
 						<l n="567">Est nemus Haemoniae, praerupta quod undique claudit</l>
 						<l n="568">silva: vocant Tempe. Per quae Peneus ab imo</l>
 						<l n="569">effusus Pindo spumosis volvitur undis,</l>
@@ -1141,7 +1141,7 @@
 						<l n="743">Officioque pedum nymphe contenta duorum</l>
 						<l n="744">erigitur metuitque loqui, ne more iuvencae</l>
 						<l n="745">mugiat, et timide verba intermissa retemptat.</l>
-						<milestone ed="Magnus" n="Phaethon." unit="tale" xml:id="e_pha"/>
+						<milestone ed="Magnus" n="Phaethon." unit="tale"/>
 						<l n="746">Nunc dea linigera colitur celeberrima turba,</l>
 						<l n="747">nunc Epaphus magni genitus de semine tandem</l>
 						<l n="748">creditur esse <persName ref="IUP" type="narrative" ana="NA"
@@ -1218,8 +1218,8 @@
 						<l n="778">sidereis transit patriosque adit inpiger ortus.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book2" n="2">
-					<milestone ed="More" n="Phaethon AND PHOEBUS" unit="tale" xml:id="e_phae2"/>
+				<div type="textpart" subtype="book" n="2">
+					<milestone ed="More" n="Phaethon AND PHOEBUS" unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Regia <persName ref="APO" type="narrative" ana="NA"
 								>Solis</persName> erat sublimibus alta columnis,</l>
@@ -1722,7 +1722,7 @@
 						<l n="399"><persName ref="APO" type="narrative" ana="NA">Phoebus</persName>
 							equos stimuloque dolens et verbere saevit:</l>
 						<l n="400">saevit enim, natumque obiectat et imputat illis.</l>
-						<milestone ed="Magnus" n="Callisto." unit="tale" xml:id="e_cal"/>
+						<milestone ed="Magnus" n="Callisto." unit="tale"/>
 						<l n="401"> At <persName ref="IUP" type="narrative" ana="NA">pater
 								omnipotens</persName> ingentia moenia caeli</l>
 						<l n="402">circuit et ne quid labefactum viribus ignis</l>
@@ -1926,7 +1926,7 @@
 						<l n="530">pellite, ne puro tingatur in aequore paelex.»</l>
 					</sp>
 					<sp who="Ovid" ana="narr">
-						<milestone ed="Magnus" n="Corvus. Coronis. Cornix. Ocyroe." unit="tale" xml:id="e_cor"/>
+						<milestone ed="Magnus" n="Corvus. Coronis. Cornix. Ocyroe." unit="tale"/>
 						<l n="531">Di maris adnuerant: habili Saturnia curru</l>
 						<l n="532">ingreditur liquidum pavonibus aethera pictis,</l>
 						<l n="533">tam nuper pictis caeso pavonibus Argo,</l>
@@ -2093,7 +2093,7 @@
 						<l n="630">eripuit geminique tulit Chironis in antrum;</l>
 						<l n="631">sperantemque sibi non falsae praemia linguae</l>
 						<l n="632">inter aves albas vetuit consistere corvum.</l>
-						<milestone ed="More" n="OCYROE AND AECULAPIUS" unit="tale" xml:id="e_ocy"/>
+						<milestone ed="More" n="OCYROE AND AECULAPIUS" unit="tale"/>
 						<l n="633">Semifer interea divinae stirpis alumno</l>
 						<l n="634">laetus erat mixtoque oneri gaudebat honore.</l>
 						<l n="635">Ecce venit rutilis umeros protecta capillis</l>
@@ -2166,14 +2166,14 @@
 						<l n="673">cauda fit, utque vagi crines per colla iacebant,</l>
 						<l n="674">in dextras abiere iubas: pariterque novata est</l>
 						<l n="675">et vox et facies nomen quoque monstra dedere.</l>
-						<milestone ed="Magnus" n="Battus." unit="tale" xml:id="e_bat"/>
+						<milestone ed="Magnus" n="Battus." unit="tale"/>
 						<l n="676">Flebat opemque tuam frustra Philyreius heros,</l>
 						<l n="677"><persName ref="APO" type="narrative" ana="NA"
 							>Delphice</persName>, poscebat. Nam nec rescindere magni</l>
 						<l n="678">iussa <persName ref="IUP" type="narrative" ana="NA"
 								>Iovis</persName> poteras, nec, si rescindere posses,</l>
 						<l n="679">tunc aderas: Elin Messeniaque arva colebas.</l>
-						<milestone ed="More" n="BATTUS AND MERCURY" unit="tale" xml:id="e_bat2"/>
+						<milestone ed="More" n="BATTUS AND MERCURY" unit="tale"/>
 						<l n="680">Illud erat tempus, quo te pastoria pellis</l>
 						<l n="681">texit onusque fuit baculum silvestre sinistrae,</l>
 						<l n="682">alterius dispar septenis fistula cannis.</l>
@@ -2244,7 +2244,7 @@
 						<l n="705">ait, periuraque pectora vertit</l>
 						<l n="706">in durum silicem, qui nunc quoque dicitur index,</l>
 						<l n="707">inque nihil merito vetus est infamia saxo.</l>
-						<milestone ed="Magnus" n="Aglauros. Invidia." unit="tale" xml:id="e_agl"/>
+						<milestone ed="Magnus" n="Aglauros. Invidia." unit="tale"/>
 						<l n="708">Hinc se sustulerat paribus caducifer alis,</l>
 						<l n="709">Munychiosque volans agros gratamque <persName ref="MIN"
 								type="narrative" ana="NA">Minervae</persName></l>
@@ -2414,7 +2414,7 @@
 						<l n="830">vocis habebat iter: saxum iam colla tenebat,</l>
 						<l n="831">oraque duruerant, signumque exsangue sedebat.</l>
 						<l n="832">Nec lapis albus erat: sua mens infecerat illam.</l>
-						<milestone ed="Magnus" n="Europa." unit="tale" xml:id="e_eur"/>
+						<milestone ed="Magnus" n="Europa." unit="tale"/>
 						<l n="833">Has ubi verborum poenas mentisque profanae</l>
 						<l n="834">cepit Atlantiades, dictas a <persName ref="MIN" type="narrative"
 								ana="NA">Pallade</persName> terras</l>
@@ -2441,7 +2441,7 @@
 						<l n="844">litora iussa petunt, ubi magni filia regis</l>
 						<l n="845">ludere virginibus Tyriis comitata solebat.</l>
 						<l n="846">Non bene conveniunt nec in una sede morantur</l>
-						<milestone ed="More" n="EUROPA AND JUPITER" unit="tale" xml:id="e_eur2"/>
+						<milestone ed="More" n="EUROPA AND JUPITER" unit="tale"/>
 						<l n="847">maiestas et amor: sceptri gravitate relicta</l>
 						<l n="848"><persName ref="IUP" type="narrative" ana="auto">ille pater
 								rectorque deum</persName>, cui dextra trisulcis</l>
@@ -2474,8 +2474,8 @@
 						<l n="875">imposita est; tremulae sinuantur flamine vestes.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book3" n="3">
-					<milestone ed="Magnus" n="Cadmus." unit="tale" xml:id="e_cad"/>
+				<div type="textpart" subtype="book" n="3">
+					<milestone ed="Magnus" n="Cadmus." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Iamque <persName ref="IUP" type="metamorphosis" ana="auto"
 								>deus</persName> posita fallacis imagine tauri</l>
@@ -2646,7 +2646,7 @@
 						<l n="128">fraternaeque fidem pacis petiitque deditque.</l>
 						<l n="129">Hos operis comites habuit Sidonius hospes,</l>
 						<l n="130">cum posuit iussam Phoebeis sortibus urbem.</l>
-						<milestone ed="More" n="ACTAEON" unit="tale" xml:id="e_act"/>
+						<milestone ed="More" n="ACTAEON" unit="tale"/>
 						<l n="131">Iam stabant Thebae: poteras iam, Cadme, videri</l>
 						<l n="132">exsilio felix. Soceri tibi Marsque Venusque</l>
 						<l n="133">contigerant: huc adde genus de coniuge tanta,</l>
@@ -2654,7 +2654,7 @@
 						<l n="135">hos quoque iam iuvenes. Sed scilicet ultima semper</l>
 						<l n="136">exspectanda dies homini est, dicique beatus</l>
 						<l n="137">ante obitum nemo supremaque funera debet.</l>
-						<milestone ed="Magnus" n="Actaeon." unit="tale" xml:id="e_act1"/>
+						<milestone ed="Magnus" n="Actaeon." unit="tale"/>
 						<l n="138">Prima nepos inter tot res tibi, Cadme, secundas</l>
 						<l n="139">causa fuit luctus, alienaque cornua fronti</l>
 						<l n="140">addita, vosque canes satiatae sanguine erili.</l>
@@ -2787,7 +2787,7 @@
 						<l n="248">non etiam sentire canum fera facta suorum.</l>
 						<l n="249">Undique circumstant mersisque in corpore rostris</l>
 						<l n="250">dilacerant falsi dominum sub imagine cervi.</l>
-						<milestone ed="Magnus" n="Semele." unit="tale" xml:id="e_sem"/>
+						<milestone ed="Magnus" n="Semele." unit="tale"/>
 						<l n="251">Rumor in ambiguo est: aliis violentior aequo</l>
 						<l n="252">visa dea est, alii laudant dignamque severa</l>
 						<l n="253">virginitate vocant; pars invenit utraque causas.</l>
@@ -2905,7 +2905,7 @@
 						<l n="311">Furtim illum primis Ino matertera cuuis</l>
 						<l n="312">educat: inde datum nymphae Nyseides antris</l>
 						<l n="313">occuluere suis lactisque alimenta dedere.</l>
-						<milestone ed="Magnus" n="Tiresias." unit="tale" xml:id="e_tir"/>
+						<milestone ed="Magnus" n="Tiresias." unit="tale"/>
 						<l n="314">Dumque ea per terras fatali lege geruntur</l>
 						<l n="315">tutaque bis geniti sunt incunabula Bacchi,</l>
 						<l n="316">forte <persName ref="IUP" type="narrative" ana="NA"
@@ -2954,7 +2954,7 @@
 								omnipotens</persName> (neque enim licet inrita cuiquam</l>
 						<l n="335">facta dei fecisse deo) pro lumine adempto</l>
 						<l n="336">scire futura dedit, poenamque levavit honore.</l>
-						<milestone ed="Magnus" n="Narcissus. Echo." unit="tale" xml:id="e_nar"/>
+						<milestone ed="Magnus" n="Narcissus. Echo." unit="tale"/>
 						<l n="337">Ille per Aonias fama celeberrimus urbes</l>
 						<l n="338">inreprehensa dabat populo responsa petenti.</l>
 						<l n="339">Prima fide vocisque ratae temptamina sumpsit</l>
@@ -3100,7 +3100,7 @@
 					</sp>
 					<sp who="Ovid" ana="narr">
 						<l n="404">dixerat. Adsensit precibus Rhamnusia iustis.</l>
-						<milestone ed="More" n="NARCISSUS" unit="tale" xml:id="e_nar2"/>
+						<milestone ed="More" n="NARCISSUS" unit="tale"/>
 						<l n="405">Fons erat inlimis, nitidis argenteus undis,</l>
 						<l n="406">quem neque pastores neque pastae monte capellae</l>
 						<l n="407">contigerant aliudve pecus, quem nulla volucris</l>
@@ -3250,7 +3250,7 @@
 						<l n="506">Iamque rogum quassasque faces feretrumque parabant:</l>
 						<l n="507">nusquam corpus erat; croceum pro corpore florem</l>
 						<l n="508">inveniunt, foliis medium cingentibus albis.</l>
-						<milestone ed="Magnus" n="Pentheus." unit="tale" xml:id="e_pen"/>
+						<milestone ed="Magnus" n="Pentheus." unit="tale"/>
 						<l n="509">Cognita res meritam vati per Achaidas urbes</l>
 						<l n="510">attulerat famam, nomenque erat auguris ingens.</l>
 						<l n="511">Spernit Echionides tamen hunc ex omnibus unus,</l>
@@ -3713,8 +3713,8 @@
 						<l n="731">turaque dant sanctasque colunt Ismenides aras.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book4" n="4">
-					<milestone ed="Magnus" n="Minyeides." unit="tale" xml:id="e_myn"/>
+				<div type="textpart" subtype="book" n="4">
+					<milestone ed="Magnus" n="Minyeides." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">At non Alcithoe Minyeias orgia censet</l>
 						<l n="2">accipienda dei, sed adhuc temeraria Bacchum</l>
@@ -3792,7 +3792,7 @@
 						<l n="52">ut nunc nigra ferat contactu sanguinis arbor.</l>
 						<l n="53">Hoc placet, hanc, quoniam vulgaris fabula non est,</l>
 						<l n="54">talibus orsa modis, lana sua fila sequente:</l>
-						<milestone ed="Magnus" n="Pyramus et Thisbe." unit="tale" xml:id="e_pyr"/>
+						<milestone ed="Magnus" n="Pyramus et Thisbe." unit="tale"/>
 					</sp>
 					<sp who="Arsippe" ana="narr">
 						<l n="55">«Pyramus et Thisbe, iuvenum pulcherrimus alter,</l>
@@ -3967,7 +3967,7 @@
 						<l n="165">nam color in pomo est, ubi permaturuit, ater,</l>
 						<l n="166">quodque rogis superest, una requiescit in urna.»</l>
 					</sp>
-					<milestone ed="Magnus" n="Venus et Mars. Leucothoe. Clytie." unit="tale" xml:id="e_ven"/>
+					<milestone ed="Magnus" n="Venus et Mars. Leucothoe. Clytie." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="167">Desierat, mediumque fuit breve tempus, et orsa est</l>
 						<l n="168">dicere Leuconoe: vocem tenuere sorores.</l>
@@ -3999,7 +3999,7 @@
 						<l n="187">turpiter; atque aliquis de dis non tristibus optat</l>
 						<l n="188">sic fieri turpis: superi risere, diuque</l>
 						<l n="189">haec fuit in toto notissima fabula caelo.</l>
-						<milestone ed="More" n="LEUCOTHEA AND CLYTIE" unit="tale" xml:id="e_leu"/>
+						<milestone ed="More" n="LEUCOTHEA AND CLYTIE" unit="tale"/>
 						<l n="190">Exigit indicii memorem Cythereia poenam,</l>
 						<l n="191">inque vices illum, tectos qui laesit amores,</l>
 						<l n="192">laedit amore pari. Quid nunc, Hyperione nate,</l>
@@ -4120,7 +4120,7 @@
 						<l n="270">vertitur ad <persName ref="APO" type="narrative" ana="NA"
 								>Solem</persName>, mutataque servat amorem.»</l>
 					</sp>
-					<milestone ed="Magnus" n="Salmacis." unit="tale" xml:id="e_sal"/>
+					<milestone ed="Magnus" n="Salmacis." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="271">Dixerat, et factum mirabile ceperat aures.</l>
 						<l n="272">Pars fieri potuisse negant, pars omnia veros</l>
@@ -4146,7 +4146,7 @@
 						<l n="283">et Crocon in parvos versum cum Smilace flores</l>
 						<l n="284">praetereo, dulcique animos novitate tenebo.</l>
 					</sp>
-					<milestone ed="More" n="HERMAPHRODITUS" unit="tale" xml:id="e_her"/>
+					<milestone ed="More" n="HERMAPHRODITUS" unit="tale"/>
 					<sp who="Alcithoe" ana="narr">
 						<l n="285">Unde sit infamis, quare male fortibus undis</l>
 						<l n="286">Salmacis enervet tactosque remolliat artus,</l>
@@ -4333,7 +4333,7 @@
 						<l n="413">emittunt, peraguntque leves stridore querellas.</l>
 						<l n="414">Tectaque, non silvas celebrant lucemque perosae</l>
 						<l n="415">nocte volant, seroque tenent a vespere nomen.</l>
-						<milestone ed="Magnus" n="Athamas et Ino." unit="tale" xml:id="e_ath"/>
+						<milestone ed="Magnus" n="Athamas et Ino." unit="tale"/>
 						<l n="416">Tum vero totis Bacchi memorabile Thebis</l>
 						<l n="417">numen erat, magnasque novi matertera vires</l>
 						<l n="418">narrat ubique dei, de totque sororibus expers</l>
@@ -4555,7 +4555,7 @@
 						<l n="560">quo quaeque in gestu deprensa est, haesit in illo.</l>
 						<l n="561">Pars volucres factae; quae nunc quoque gurgite in illo</l>
 						<l n="562">aequora destringunt summis Ismenides alis.</l>
-						<milestone ed="Magnus" n="Cadmus et Harmonia." unit="tale" xml:id="e_cad2"/>
+						<milestone ed="Magnus" n="Cadmus et Harmonia." unit="tale"/>
 						<l n="563">Nescit Agenorides natam parvumque nepotem</l>
 						<l n="564">aequoris esse deos: luctu serieque malorum</l>
 						<l n="565">victus et ostentis, quae plurima viderat, exit</l>
@@ -4619,7 +4619,7 @@
 						<l n="601">donec in adpositi nemoris subiere latebras.</l>
 						<l n="602">Nunc quoque nec fugiunt hominem nec vulnere laedunt</l>
 						<l n="603">quidque prius fuerint, placidi meminere dracones.</l>
-						<milestone ed="Magnus" n="Perseus. Atlas. Andromeda." unit="tale" xml:id="e_per"/>
+						<milestone ed="Magnus" n="Perseus. Atlas. Andromeda." unit="tale"/>
 						<l n="604">Sed tamen ambobus versae solacia formae</l>
 						<l n="605">magna nepos dederat, quem debellata colebat</l>
 						<l n="606">India, quem positis celebrabat Achaia templis.</l>
@@ -4716,7 +4716,7 @@
 						<l n="660">ossa lapis fiunt: tum partes auctus in omnes</l>
 						<l n="661">crevit in inmensum (sic, di, statuistis) et omne</l>
 						<l n="662">cum tot sideribus caelum requievit in illo.</l>
-						<milestone ed="More" n="PERSEUS AND ANDROMEDA" unit="tale" xml:id="e_per3"/>
+						<milestone ed="More" n="PERSEUS AND ANDROMEDA" unit="tale"/>
 						<l n="663">Clauserat Hippotades aeterno carcere ventos,</l>
 						<l n="664">admonitorque operum caelo clarissimus alto</l>
 						<l n="665">Lucifer ortus erat. Pennis ligat ille resumptis</l>
@@ -4901,7 +4901,7 @@
 						<l n="804">pectore in adverso, quos fecit, sustinet angues.»</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book5" n="5">
+				<div type="textpart" subtype="book" n="5">
 					<sp who="Ovid" ana="narr">
 						<l n="1">Dumque ea Cephenum medio Danaeius heros</l>
 						<l n="2">agmine commemorat, fremida regalia turba</l>
@@ -5300,7 +5300,7 @@
 					<sp who="Ovid" ana="narr">
 						<l n="248">Perseus ait oraque regis</l>
 						<l n="249">ore Medusaeo silicem sine sanguine fecit.</l>
-						<milestone ed="Magnus" n="Hippocrene. Pierides." unit="tale" xml:id="e_hip"/>
+						<milestone ed="Magnus" n="Hippocrene. Pierides." unit="tale"/>
 						<l n="250">Hactenus aurigenae comitem <persName ref="MIN" type="narrative"
 								ana="NA">Tritonia</persName> fratri</l>
 						<l n="251">se dedit: inde cava circumdata nube Seriphon</l>
@@ -5334,7 +5334,7 @@
 						<l n="267">felicesque vocat pariter studioque locoque</l>
 						<l n="268">Mnemonidas.Quam sic adfata est una sororum:</l>
 					</sp>
-					<milestone ed="More" n="THE NINE MUSES AND PYRENAEUS" unit="tale" xml:id="e_mus"/>
+					<milestone ed="More" n="THE NINE MUSES AND PYRENAEUS" unit="tale"/>
 					<sp who="musa" ana="pers">
 						<l n="269">«O, nisi te virtus opera ad maiora tulisset,</l>
 						<l n="270">in partem ventura chori <persName ref="MIN" type="narrative"
@@ -5402,7 +5402,7 @@
 						<l n="292">et cadit in vultus, discussisque ossibus oris</l>
 						<l n="293">tundit humum moriens scelerato sanguine tinctam.»</l>
 					</sp>
-					<milestone ed="More" n="THE NINE MUSES AND THE NINE MAGPIES" unit="tale" xml:id="e_mus2"/>
+					<milestone ed="More" n="THE NINE MUSES AND THE NINE MAGPIES" unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="294">Musa loquebatur: pennae sonuere per auras,</l>
 						<l n="295">voxque salutantum ramis veniebat ab altis.</l>
@@ -5486,7 +5486,7 @@
 						<l n="338">Surgit et inmissos hedera conlecta capillos</l>
 						<l n="339">Calliope querulas praetemptat pollice chordas,</l>
 						<l n="340">atque haec percussis subiungit carmina nervis:</l>
-						<milestone ed="Magnus" n="Ceres et Proserpina." unit="tale" xml:id="e_cer"/>
+						<milestone ed="Magnus" n="Ceres et Proserpina." unit="tale"/>
 					</sp>
 					<sp who="Calliope" ana="narr">
 						<l n="341">«Prima Ceres unco glaebam dimovit aratro,</l>
@@ -5772,7 +5772,7 @@
 						<l n="569">nam modo quae poterat Diti quoque maesta videri,</l>
 						<l n="570">laeta deae frons est, ut sol, qui tectus aquosis</l>
 						<l n="571">nubibus ante fuit, victis e nubibus exit.</l>
-						<milestone ed="Magnus" n="Arethusa." unit="tale" xml:id="e_are"/>
+						<milestone ed="Magnus" n="Arethusa." unit="tale"/>
 						<l n="572">Exigit alma Ceres, nata secura recepta,</l>
 						<l n="573">quae tibi causa fugae, cur sis, Arethusa, sacer fons.</l>
 						<l n="574">Conticuere undae: quarum dea sustulit alto</l>
@@ -5877,7 +5877,7 @@
 						<l n="640">advehor Ortygiam, quae me cognomine divae</l>
 						<l n="641">grata meae superas eduxit prima sub auras.»</l>
 					</sp>
-					<milestone ed="More" n="CALLIOPE SINGS OF TRIPTOLEMUS AND LYNCUS" unit="tale" xml:id="e_cal2"/>
+					<milestone ed="More" n="CALLIOPE SINGS OF TRIPTOLEMUS AND LYNCUS" unit="tale"/>
 					<sp who="Calliope" ana="narr">
 						<l n="642">Hac Arethusa tenus. Geminos dea fertilis angues</l>
 						<l n="643">curribus admovit frenisque coercuit ora</l>
@@ -5913,7 +5913,7 @@
 						<l n="661">Mopsopium iuvenem sacros agitare iugales.»</l>
 					</sp>
 					<milestone ed="More" n="THE NINE OPPONENTS OF THE NINE MUSES CHANGED TO MAGPIES"
-						unit="tale" xml:id="e_mag"/>
+						unit="tale"/>
 					<sp who="musa" ana="narr">
 						<l n="662">Finierat doctos e nobis maxima cantus.</l>
 						<l n="663">At nymphae vicisse deas Helicona colentes</l>
@@ -5945,8 +5945,8 @@
 						<l n="678">raucaque garrulitas studiumque inmane loquendi.»</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book6" n="6">
-					<milestone ed="Magnus" n="Pallas et Arachne." unit="tale" xml:id="e_pal"/>
+				<div type="textpart" subtype="book" n="6">
+					<milestone ed="Magnus" n="Pallas et Arachne." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Praebuerat dictis <persName ref="MIN" type="narrative" ana="NA"
 								>Tritonia</persName> talibus aures</l>
@@ -6150,7 +6150,7 @@
 						<l n="143">in latere exiles digiti pro cruribus haerent,</l>
 						<l n="144">cetera venter habet: de quo tamen illa remittit</l>
 						<l n="145">stamen et antiquas exercet aranea telas.</l>
-						<milestone ed="Magnus" n="Niobe." unit="tale" xml:id="e_nio"/>
+						<milestone ed="Magnus" n="Niobe." unit="tale"/>
 						<l n="146">Lydia tota fremit, Phrygiaeque per oppida facti</l>
 						<l n="147">rumor it et magnum sermonibus occupat orbem.</l>
 						<l n="148">Ante suos Niobe thalamos cognoverat illam,</l>
@@ -6414,7 +6414,7 @@
 						<l n="310">Flet tamen. Et validi circumdata turbine venti</l>
 						<l n="311">in patriam rapta est. Ibi fixa cacumine montis</l>
 						<l n="312">liquitur, et lacrimas etiam nunc marmora manant.</l>
-						<milestone ed="Magnus" n="Agrestes Lycii." unit="tale" xml:id="e_agr"/>
+						<milestone ed="Magnus" n="Agrestes Lycii." unit="tale"/>
 						<l n="313">Tum vero cuncti manifestam numinis iram</l>
 						<l n="314">femina virque timent cultuque impensius omnes</l>
 						<l n="315">magna gemelliparae venerantur numina divae,</l>
@@ -6520,7 +6520,7 @@
 						<l n="380">spina viret, venter, pars maxima corporis, albet,</l>
 						<l n="381">limosoque novae saliunt in gurgite ranae.»</l>
 					</sp>
-					<milestone ed="Magnus" n="Marsyas. Pelops." unit="tale" xml:id="e_mar"/>
+					<milestone ed="Magnus" n="Marsyas. Pelops." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="382">Sic ubi nescio quis Lycia de gente virorum</l>
 						<l n="383">rettulit exitium, satyri reminiscitur alter,</l>
@@ -6558,7 +6558,7 @@
 						<l n="398">quas ubi fecit aquam, vacuas emisit in auras.</l>
 						<l n="399">Inde petens rapidum ripis declivibus aequor</l>
 						<l n="400">Marsya nomen habet, Phrygiae liquidissimus amnis.</l>
-						<milestone ed="More" n="PELOPS" unit="tale" xml:id="e_pel"/>
+						<milestone ed="More" n="PELOPS" unit="tale"/>
 						<l n="401">Talibus extemplo redit ad praesentia dictis</l>
 						<l n="402">vulgus et exstinctum cum stirpe Amphiona luget.</l>
 						<l n="403">Mater in invidia est. Hanc tunc quoque dicitur unus</l>
@@ -6570,7 +6570,7 @@
 						<l n="409">qui locus est iuguli medius summique lacerti,</l>
 						<l n="410">defuit. Impositum est non comparentis in usum</l>
 						<l n="411">partis ebur, factoque Pelops fuit integer illo.</l>
-						<milestone ed="Magnus" n="Procne et Philomela." unit="tale" xml:id="e_pro"/>
+						<milestone ed="Magnus" n="Procne et Philomela." unit="tale"/>
 						<l n="412">Finitimi proceres coeunt, urbesque propinquae</l>
 						<l n="413">oravere suos ire ad solacia reges,</l>
 						<l n="414">Argosque et Sparte Pelopeiadesque Mycenae</l>
@@ -6917,10 +6917,10 @@
 						<l n="672">vertitur in volucrem, cui stant in vertice cristae;</l>
 						<l n="673">prominet inmodicum pro longa cuspide rostrum:</l>
 						<l n="674">nomen epops volucri, facies armata videtur.</l>
-						<milestone ed="Magnus" n="Boreas. Zetes et Calais." unit="tale" xml:id="e_bor"/>
+						<milestone ed="Magnus" n="Boreas. Zetes et Calais." unit="tale"/>
 						<l n="675">Hic dolor ante diem longaeque extrema senectae</l>
 						<l n="676">tempora Tartareas Pandiona misit ad umbras.</l>
-						<milestone ed="More" n="ORITHYIA AND BOREAS" unit="tale" xml:id="e_ori"/>
+						<milestone ed="More" n="ORITHYIA AND BOREAS" unit="tale"/>
 						<l n="677">Sceptra loci rerumque capit moderamen Erechtheus,</l>
 						<l n="678">iustitia dubium validisne potentior armis.</l>
 						<l n="679">Quattuor ille quidem iuvenes totidemque crearat</l>
@@ -6978,8 +6978,8 @@
 						<l n="721">per mare non notum prima petiere carina.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book7" n="7">
-					<milestone ed="Magnus" n="Iason et Medea." unit="tale" xml:id="e_ias"/>
+				<div type="textpart" subtype="book" n="7">
+					<milestone ed="Magnus" n="Iason et Medea." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Iamque fretum Minyae Pagasaea puppe secabant,</l>
 						<l n="2">perpetuaque trahens inopem sub nocte senectam</l>
@@ -7155,7 +7155,7 @@
 						<l n="156">heros Aesonius potitur spolioque superbus</l>
 						<l n="157">muneris auctorem secum, spolia altera, portans</l>
 						<l n="158">victor Iolciacos tetigit cum coniuge portus.</l>
-						<milestone ed="Magnus" n="Aeson." unit="tale" xml:id="e_aes"/>
+						<milestone ed="Magnus" n="Aeson." unit="tale"/>
 						<l n="159">Haemoniae matres pro gnatis dona receptis</l>
 						<l n="160">grandaevique ferunt patres congestaque flamma</l>
 						<l n="161">tura liquefaciunt, inductaque cornibus aurum</l>
@@ -7320,7 +7320,7 @@
 						<l n="294">Viderat ex alto tanti miracula monstri</l>
 						<l n="295">Liber, et admonitus iuvenes nutricibus annos</l>
 						<l n="296">posse suis reddi, capit hoc a Colchide munus.</l>
-						<milestone ed="Magnus" n="Pelias." unit="tale" xml:id="e_pel1"/>
+						<milestone ed="Magnus" n="Pelias." unit="tale"/>
 						<l n="297">Neve doli cessent, odium cum coniuge falsum</l>
 						<l n="298">Phasias adsimulat Peliaeque ad limina supplex</l>
 						<l n="299">confugit. Atque illam, quoniam gravis ipse senecta est,</l>
@@ -7402,7 +7402,7 @@
 						<l n="347">ait. Cecidere illis animique manusque.</l>
 						<l n="348">Plura locuturo cum verbis guttura Colchis</l>
 						<l n="349">abstulit et calidis laniatum mersit in undis.</l>
-						<milestone ed="Magnus" n="Medeae fuga." unit="tale" xml:id="e_med"/>
+						<milestone ed="Magnus" n="Medeae fuga." unit="tale"/>
 						<l n="350">Quod nisi pennatis serpentibus isset in auras,</l>
 						<l n="351">non exempta foret poenae. Fugit alta superque</l>
 						<l n="352">Pelion umbrosum, Philyreia tecta, superque</l>
@@ -7459,7 +7459,7 @@
 						<l n="395">flagrantemque domum regis mare vidit utrumque,</l>
 						<l n="396">sanguine natorum perfunditur impius ensis,</l>
 						<l n="397">ultaque se male mater Iasonis effugit arma.</l>
-						<milestone ed="More" n="MEDEA AND AEGEUS" unit="tale" xml:id="e_med2"/>
+						<milestone ed="More" n="MEDEA AND AEGEUS" unit="tale"/>
 						<l n="398">Hinc Titaniacis ablata draconibus intrat</l>
 						<l n="399"><persName ref="MIN" type="narrative" ana="NA"
 								>Palladias</persName> arces, quae te, iustissima Phene,</l>
@@ -7467,7 +7467,7 @@
 						<l n="401">innixamque novis neptem Polypemonis alis.</l>
 						<l n="402">Excipit hanc Aegeus, facto dammandus in uno;</l>
 						<l n="403">nec satis hospitium est: thalami quoque foedere iungit.</l>
-						<milestone ed="Magnus" n="Theseus." unit="tale" xml:id="e_the"/>
+						<milestone ed="Magnus" n="Theseus." unit="tale"/>
 						<l n="404">Iamque aderat Theseus, proles ignara parenti,</l>
 						<l n="405">et virtute sua bimarem pacaverat Isthmon.</l>
 						<l n="406">Huius in exitium miscet Medea quod olim</l>
@@ -7489,7 +7489,7 @@
 						<l n="422">cum pater in capulo gladii cognovit eburno</l>
 						<l n="423">signa sui generis facinusque excussit ab ore.</l>
 						<l n="424">Effugit illa necem nebulis per carmina motis.</l>
-						<milestone ed="More" n="THE MYRMIDONS" unit="tale" xml:id="e_myr"/>
+						<milestone ed="More" n="THE MYRMIDONS" unit="tale"/>
 						<l n="425">At genitor, quamquam laetatur sospite nato,</l>
 						<l n="426">attonitus tamen est ingens discrimine parvo</l>
 						<l n="427">committi potuisse nefas. Fovet ignibus aras</l>
@@ -7523,7 +7523,7 @@
 					<sp who="Ovid" ana="narr">
 						<l n="451">Consonat adsensu populi precibusque faventum</l>
 						<l n="452">regia, nec tota tristis locus ullus in urbe est.</l>
-						<milestone ed="Magnus" n="Aeacus. Pestilentia. Myrmidones." unit="tale" xml:id="e_aec"/>
+						<milestone ed="Magnus" n="Aeacus. Pestilentia. Myrmidones." unit="tale"/>
 						<l n="453">Nec tamen (usque adeo nulla est sincera voluptas,</l>
 						<l n="454">sollicitumque aliquid laetis intervenit) Aegeus</l>
 						<l n="455">gaudia percepit nato secura recepto.</l>
@@ -7845,7 +7845,7 @@
 					</sp>
 					<sp who="Aeacus" ana="pers">
 						<l n="660">«fuerit mutatus in austros.»</l>
-						<milestone ed="Magnus" n="Cephalus et Procris." unit="tale" xml:id="e_cep"/>
+						<milestone ed="Magnus" n="Cephalus et Procris." unit="tale"/>
 					</sp>
 					<sp who="Ovid" ana="narr">
 						<l n="661">Talibus atque aliis longum sermonibus illi</l>
@@ -8197,8 +8197,8 @@
 						<l n="865">milite, quem Cephalus cum fortibus accipit armis.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book8" n="8">
-					<milestone ed="Magnus" n="Nisus et Scylla." unit="tale" xml:id="e_nis"/>
+				<div type="textpart" subtype="book" n="8">
+					<milestone ed="Magnus" n="Nisus et Scylla." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Iam nitidum retegente diem noctisque fugante</l>
 						<l n="2">tempora Lucifero cadit eurus, et umida surgunt</l>
@@ -8383,7 +8383,7 @@
 						<l n="149">sustinuisse levis, ne tangeret aequora, visa est.</l>
 						<l n="150">Pluma fuit: plumis in avem mutata vocatur</l>
 						<l n="151">ciris, et a tonso est hoc nomen adepta capillo.</l>
-						<milestone ed="Magnus" n="Labyrinthus. Ariadnes corona." unit="tale" xml:id="e_lab"/>
+						<milestone ed="Magnus" n="Labyrinthus. Ariadnes corona." unit="tale"/>
 						<l n="152">Vota Iovi Minos taurorum corpora centum</l>
 						<l n="153">solvit, ut egressus ratibus Curetida terram</l>
 						<l n="154">contigit, spoliis decorata est regia fixis.</l>
@@ -8415,7 +8415,7 @@
 						<l n="180">dumque volat, gemmae nitidos vertuntur in ignes</l>
 						<l n="181">consistuntque loco specie remanente coronae,</l>
 						<l n="182">qui medius Nixique genu est anguemque tenentis.</l>
-						<milestone ed="Magnus" n="Daedalus et Icarus. Perdix." unit="tale" xml:id="e_dae"/>
+						<milestone ed="Magnus" n="Daedalus et Icarus. Perdix." unit="tale"/>
 						<l n="183">Daedalus interea Creten longumque perosus</l>
 						<l n="184">exsilium tactusque loci natalis amore</l>
 						<l n="185">clausus erat pelago.</l>
@@ -8541,11 +8541,11 @@
 						<l n="257">nec facit in ramis altoque cacumine nidos:</l>
 						<l n="258">propter humum volitat ponitque in saepibus ova</l>
 						<l n="259">antiquique memor metuit sublimia casus.</l>
-						<milestone ed="Magnus" n="Aper Calydonius. Meleager." unit="tale" xml:id="e_cal1"/>
+						<milestone ed="Magnus" n="Aper Calydonius. Meleager." unit="tale"/>
 						<l n="260">Iamque fatigatum tellus Aetnaea tenebat</l>
 						<l n="261">Daedalon, et sumptis pro supplice Cocalus armis</l>
 						<l n="262">mitis habebatur,iam lamentabile Athenae</l>
-						<milestone ed="More" n="ATALANTA AND MELEAGER" unit="tale" xml:id="e_ata"/>
+						<milestone ed="More" n="ATALANTA AND MELEAGER" unit="tale"/>
 						<l n="263">pendere desierant Thesea laude tributum.</l>
 						<l n="264">Templa coronantur, <persName ref="MIN" type="narrative" ana="NA"
 								>bellatricemque Minervam</persName></l>
@@ -8827,7 +8827,7 @@
 						<l n="442">ulcisci fratrem fraternaque fata timentem</l>
 						<l n="443">haud patitur dubitare diu calidumque priori</l>
 						<l n="444">caede recalfecit consorti sanguine telum.</l>
-						<milestone ed="More" n="ALTHAEA AND THE DEATH OF MELEAGER" unit="tale" xml:id="e_alt"/>
+						<milestone ed="More" n="ALTHAEA AND THE DEATH OF MELEAGER" unit="tale"/>
 						<l n="445">Dona deum templis nato victore ferebat,</l>
 						<l n="446">cum videt exstinctos fratres Althaea referri.</l>
 						<l n="447">Quae plangore dato maestis clamoribus urbem</l>
@@ -8963,7 +8963,7 @@
 						<l n="544">nobilis Alcmenae natis in corpore pennis</l>
 						<l n="545">adlevat et longas per bracchia porrigit alas</l>
 						<l n="546">corneaque ora facit versasque per aera mittit.</l>
-						<milestone ed="Magnus" n="Theseus apud Acheloum. Perimele." unit="tale" xml:id="e_the1"/>
+						<milestone ed="Magnus" n="Theseus apud Acheloum. Perimele." unit="tale"/>
 						<l n="547">Interea Theseus sociati parte laboris</l>
 						<l n="548">functus Erechtheas Tritonidos ibat ad arces.</l>
 						<l n="549">Clausit iter fecitque moras Achelous eunti</l>
@@ -9091,7 +9091,7 @@
 						<l n="609">corpus et inducta condi praecordia terra.</l>
 						<l n="610">Dum loquor, amplexa est artus nova terra natantes,</l>
 						<l n="611">et gravis increvit mutatis insula membris.</l>
-						<milestone ed="Magnus" n="Philemon et Baucis." unit="tale" xml:id="phi"/>
+						<milestone ed="Magnus" n="Philemon et Baucis." unit="tale"/>
 					</sp>
 					<sp who="Ovid" ana="narr">
 						<l n="612">Amnis ab his tacuit. Factum mirabile cunctos</l>
@@ -9269,7 +9269,7 @@
 					<sp who="Lelex" ana="pers">
 						<l n="727">«cura deum di sint, et qui coluere colantur.»</l>
 					</sp>
-					<milestone ed="Magnus" n="Erysichthon. Fames." unit="tale" xml:id="e_ery"/>
+					<milestone ed="Magnus" n="Erysichthon. Fames." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="728">Desierat cunctosque et res et moverat auctor,</l>
 						<l n="729">Thesea praecipue. Quem facta audire volentem</l>
@@ -9288,7 +9288,7 @@
 						<l n="739">interdum, faciem liquidarum imitatus aquarum,</l>
 						<l n="740">flumen eras, interdum undis contrarius ignis.</l>
 					</sp>
-					<milestone ed="More" n="ERYSICHTHON AND MESTRA" unit="tale" xml:id="e_ery2"/>
+					<milestone ed="More" n="ERYSICHTHON AND MESTRA" unit="tale"/>
 					<sp who="Achelous" ana="narr">
 						<l n="741">Nec minus Autolyci coniunx, Erysichthone nata,</l>
 						<l n="742">iuris habet. Pater huius erat, qui numina divum</l>
@@ -9487,9 +9487,9 @@
 						<l n="887">Gemitus sunt verba secuti.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book9" n="9">
+				<div type="textpart" subtype="book" n="9">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Achelous et Hercules." unit="tale" xml:id="e_ach"/>
+					<milestone ed="Magnus" n="Achelous et Hercules." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Quae gemitus truncaeque deo Neptunius heros</l>
@@ -9637,7 +9637,7 @@
 						<l n="96">opperiuntur, aquae. Vultus Achelous agrestes</l>
 						<l n="97">et lacerum cornu mediis caput abdidit undis.</l>
 						<milestone n="98" unit="card"/>
-						<milestone ed="Magnus" n="Nessus. Herculis mors." unit="tale" xml:id="e_nes"/>
+						<milestone ed="Magnus" n="Nessus. Herculis mors." unit="tale"/>
 						<l n="98">Hunc tamen ablati domuit iactura decoris,</l>
 						<l n="99">cetera sospes habet; capitis quoque fronde saligna</l>
 						<l n="100">aut super inposita celatur harundine damnum.</l>
@@ -9907,7 +9907,7 @@
 								omnipotens</persName> inter cava nubila raptum</l>
 						<l n="272">quadriiugo curru radiantibus intulit astris.</l>
 						<milestone n="273" unit="card"/>
-						<milestone ed="Magnus" n="Alcmene et Galanthis." unit="tale" xml:id="e_alc"/>
+						<milestone ed="Magnus" n="Alcmene et Galanthis." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="273">Sensit Atlas pondus.—Neque adhuc Stheneleius iras</l>
 						<l n="274">solverat Eurystheus odiumque in prole paternum</l>
@@ -9979,12 +9979,12 @@
 						<l n="322">Quae quia mendaci parientem iuverat ore,</l>
 						<l n="323">ore parit nostrasque domos, ut et ante, frequentat.»</l>
 					</sp>
-					<milestone ed="Magnus" n="Dryope. Iolaus." unit="tale" xml:id="e_dry"/>
+					<milestone ed="Magnus" n="Dryope. Iolaus." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="324">Dixit, et admonitu veteris commota ministrae</l>
 						<l n="325">ingemuit. Quam sic nurus est adfata dolentem:</l>
 					</sp>
-					<milestone ed="More" n="DRYOPE" unit="tale" xml:id="e_dry2"/>
+					<milestone ed="More" n="DRYOPE" unit="tale"/>
 					<sp who="Iole" ana="pers">
 						<l n="326">«Te tamen, o genetrix, alienae sanguine vestro</l>
 						<l n="327">rapta movet facies. Quid si tibi mira sororis</l>
@@ -10067,7 +10067,7 @@
 						<l n="392">Desierant simul ora loqui, simul esse, diuque</l>
 						<l n="393">corpore mutato rami caluere recentes.»</l>
 					</sp>
-					<milestone ed="More" n="IOLAUS" unit="tale" xml:id="e_iol"/>
+					<milestone ed="More" n="IOLAUS" unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="394">Dumque refert Iole factum mirabile, dumque</l>
@@ -10109,7 +10109,7 @@
 					</sp>
 					<sp who="Ovid" ana="narr">
 						<milestone n="418" unit="card"/>
-						<milestone ed="Magnus" n="Byblis." unit="tale" xml:id="e_byb"/>
+						<milestone ed="Magnus" n="Byblis." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="418">Haec ubi faticano venturi praescia dixit</l>
 						<l n="419">ore Themis, vario superi sermone fremebant,</l>
@@ -10156,7 +10156,7 @@
 						<l n="447">Sponte fugis, Milete, tua, celerique carina</l>
 						<l n="448">Aegaeas metiris aquas et in Aside terra</l>
 						<l n="449">moenia constituis positoris habentia nomen.</l>
-						<milestone ed="More" n="BYBLIS AND CAUNUS" unit="tale" xml:id="e_byb2"/>
+						<milestone ed="More" n="BYBLIS AND CAUNUS" unit="tale"/>
 						<l n="450">Hic tibi, dum sequitur patriae curvamina ripae,</l>
 						<l n="451">filia Maeandri totiens redeuntis eodem</l>
 						<l n="452">cognita Cyanee, praestantia corpora forma,</l>
@@ -10425,7 +10425,7 @@
 						<l n="665">nomen habet dominae nigraque sub ilice manat.</l>
 					</sp>
 					<milestone n="666" unit="card"/>
-					<milestone ed="Magnus" n="Iphis." unit="tale" xml:id="e_iph"/>
+					<milestone ed="Magnus" n="Iphis." unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="666">Fama novi centum Cretaeas forsitan urbes</l>
 						<l n="667">implesset monstri, si non miracula nuper</l>
@@ -10601,9 +10601,9 @@
 						<l n="797">conveniunt, potiturque sua puer Iphis Ianthe.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book10" n="10">
+				<div type="textpart" subtype="book" n="10">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Orpheus et Eurydice." unit="tale" xml:id="e_orp"/>
+					<milestone ed="Magnus" n="Orpheus et Eurydice." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Inde per inmensum croceo velatus amictu</l>
@@ -10709,7 +10709,7 @@
 						<l n="84">in teneros transferre mares citraque iuventam</l>
 						<l n="85">aetatis breve ver et primos carpere flores.</l>
 						<milestone n="86" unit="card"/>
-						<milestone ed="Magnus" n="Arbores motae. Cyparissus." unit="tale" xml:id="e_arb"/>
+						<milestone ed="Magnus" n="Arbores motae. Cyparissus." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="86">Collis erat collemque super planissima campi</l>
 						<l n="87">area, quam viridem faciebant graminis herbae.</l>
@@ -10731,7 +10731,7 @@
 						<l n="103">et succincta comas hirsutaque vertice pinus,</l>
 						<l n="104">grata deum matri; siquidem Cybeleius Attis</l>
 						<l n="105">exuit hac hominem truncoque induruit illo.</l>
-						<milestone ed="More" n="CYPARISSUS" unit="tale" xml:id="e_cyp"/>
+						<milestone ed="More" n="CYPARISSUS" unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="106">Adfuit huic turbae metas imitata cupressus,</l>
 						<l n="107">nunc arbor, puer ante deo dilectus ab illo,</l>
@@ -10780,7 +10780,7 @@
 					<sp who="Ovid" ana="narr">
 						<l n="142">inquit.</l>
 						<milestone n="143" unit="card"/>
-						<milestone ed="Magnus" n="Ganymedes. Hyacinthus." unit="tale" xml:id="e_gan"/>
+						<milestone ed="Magnus" n="Ganymedes. Hyacinthus." unit="tale"/>
 						<l n="143">Tale nemus vates attraxerat inque ferarum</l>
 						<l n="144">concilio medius turba volucrumque sedebat.</l>
 						<l n="145">Ut satis impulsas temptavit pollice chordas</l>
@@ -10811,7 +10811,7 @@
 						<l n="161">invitaque <persName ref="IUP" type="narrative" ana="NA"
 								>Iovi</persName> nectar Iunone ministrat.</l>
 					</sp>
-					<milestone ed="More" n="HYACINTHUS" unit="tale" xml:id="e_hya"/>
+					<milestone ed="More" n="HYACINTHUS" unit="tale"/>
 					<sp who="Orpheus" ana="pers">
 						<l n="162">Te quoque, Amyclide, posuisset in aethere <persName ref="APO"
 								type="narrative" ana="NA">Phoebus</persName>,</l>
@@ -10890,7 +10890,7 @@
 						<l n="219">annua praelata redeunt Hyacinthia pompa.</l>
 					</sp>
 					<milestone n="220" unit="card"/>
-					<milestone ed="Magnus" n="Cerastae et Propoetides." unit="tale" xml:id="e_cer1"/>
+					<milestone ed="Magnus" n="Cerastae et Propoetides." unit="tale"/>
 					<sp who="Orpheus" ana="narr">
 						<l n="220">At si forte roges fecundam Amathunta metallis,</l>
 						<l n="221">an genuisse velit Propoetidas, abnuat aeque</l>
@@ -10929,7 +10929,7 @@
 						<l n="242">in rigidum parvo silicem discrimine versae.</l>
 					</sp>
 					<milestone n="243" unit="card"/>
-					<milestone ed="Magnus" n="Pygmalion." unit="tale" xml:id="e_pyg"/>
+					<milestone ed="Magnus" n="Pygmalion." unit="tale"/>
 					<sp who="Orpheus" ana="narr">
 						<l n="243">Quas quia Pygmalion aevum per crimen agentes</l>
 						<l n="244">viderat, offensus vitiis, quae plurima menti</l>
@@ -11010,7 +11010,7 @@
 						<l n="297">illa Paphon genuit, de qua tenet insula nomen.</l>
 					</sp>
 					<milestone n="298" unit="card"/>
-					<milestone ed="Magnus" n="Myrrha." unit="tale" xml:id="e_myr1"/>
+					<milestone ed="Magnus" n="Myrrha." unit="tale"/>
 					<sp who="Orpheus" ana="narr">
 						<l n="298">Editus hac ille est, qui, si sine prole fuisset,</l>
 						<l n="299">inter felices Cinyras potuisset haberi.</l>
@@ -11379,7 +11379,7 @@
 						<l n="518">aut huic adde leves, aut illi deme pharetras.</l>
 					</sp>
 					<milestone n="519" unit="card"/>
-					<milestone ed="Magnus" n="Venus et Adonis. Atalanta." unit="tale" xml:id="e_ven1"/>
+					<milestone ed="Magnus" n="Venus et Adonis. Atalanta." unit="tale"/>
 					<sp who="Orpheus" ana="narr">
 						<l n="519">Labitur occulte fallitque volatilis aetas,</l>
 						<l n="520">et nihil est annis velocius. Ille sorore</l>
@@ -11457,7 +11457,7 @@
 						<l n="559">sic ait ac mediis interserit oscula verbis:</l>
 					</sp>
 					<milestone n="560" unit="card"/>
-					<milestone ed="More" n="ATALANTA" unit="tale" xml:id="e_ata1"/>
+					<milestone ed="More" n="ATALANTA" unit="tale"/>
 					<sp who="Venus" ana="narr">
 						<l n="560">«Forsitan audieris aliquam certamine cursus</l>
 						<l n="561">veloces superasse viros. Non fabula rumor</l>
@@ -11718,7 +11718,7 @@
 						<l n="706">quod non terga fugae, sed pugnae pectora praebet,</l>
 						<l n="707">effuge, ne virtus tua sit damnosa duobus.»</l>
 					</sp>
-					<milestone ed="More" n="ADONIS TRANSFORMED" unit="tale" xml:id="e_ado"/>
+					<milestone ed="More" n="ADONIS TRANSFORMED" unit="tale"/>
 					<sp who="Orpheus" ana="narr">
 						<l n="708">Illa quidem monuit iunctisque per aera cygnis</l>
 						<l n="709">carpit iter: sed stat monitis contraria virtus.</l>
@@ -11766,9 +11766,9 @@
 						<l n="739">excutiunt idem, qui praestant nomina, venti.»</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book11" n="11">
+				<div type="textpart" subtype="book" n="11">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Orphei mors." unit="tale" xml:id="e_orp2"/>
+					<milestone ed="Magnus" n="Orphei mors." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Carmine dum tali silvas animosque ferarum</l>
@@ -11881,7 +11881,7 @@
 						<l n="83">robora sunt umeri, porrectaque bracchia veros</l>
 						<l n="84">esse putes ramos, et non fallere putando.</l>
 						<milestone n="85" unit="card"/>
-						<milestone ed="Magnus" n="Midas aureus." unit="tale" xml:id="e_mid"/>
+						<milestone ed="Magnus" n="Midas aureus." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="85">Nec satis hoc Baccho est: ipsos quoque deserit agros</l>
 						<l n="86">cumque choro meliore sui vineta Timoli</l>
@@ -11974,7 +11974,7 @@
 						<l n="144">Nunc quoque iam veteris percepto semine venae</l>
 						<l n="145">arva rigent auro madidis pallentia glaebis.</l>
 						<milestone n="146" unit="card"/>
-						<milestone ed="Magnus" n="Midae aures." unit="tale" xml:id="e_mid2"/>
+						<milestone ed="Magnus" n="Midae aures." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="146">Ille, perosus opes, silvas et rura colebat</l>
 						<l n="147">Panaque montanis habitantem semper in antris.</l>
@@ -12042,7 +12042,7 @@
 						<l n="192">prodidit agricolam: leni nam motus ab austro</l>
 						<l n="193">obruta verba refert dominique coarguit aures.</l>
 						<milestone n="194" unit="card"/>
-						<milestone ed="Magnus" n="Laomedon. Hesione." unit="tale" xml:id="e_lao"/>
+						<milestone ed="Magnus" n="Laomedon. Hesione." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="194">Ultus abit Tmolo liquidumque per aera vectus</l>
 						<l n="195">angustum citra pontum Nepheleidos Helles</l>
@@ -12079,7 +12079,7 @@
 								type="narrative" ana="NA">Iovis</persName> esse nepoti</l>
 						<l n="220">contigit haud uni, coniunx dea contigit uni.</l>
 						<milestone n="221" unit="card"/>
-						<milestone ed="Magnus" n="Peleus et Thetis." unit="tale" xml:id="e_pel2"/>
+						<milestone ed="Magnus" n="Peleus et Thetis." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="221">Namque senex Thetidi Proteus</l>
 					</sp>
@@ -12163,7 +12163,7 @@
 						<l n="264">exhibita estque Thetis. Confessam amplectitur heros</l>
 						<l n="265">et potitur votis ingentique implet Achille.</l>
 						<milestone n="266" unit="card"/>
-						<milestone ed="Magnus" n="Peleus apud Ceycem." unit="tale" xml:id="e_pel4"/>
+						<milestone ed="Magnus" n="Peleus apud Ceycem." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="266">Felix et nato, felix et coniuge Peleus</l>
 						<l n="267">et cui, si demas iugulati crimina Phoci,</l>
@@ -12281,7 +12281,7 @@
 						<l n="345">saevit aves aliisque dolens fit causa dolendi.»</l>
 					</sp>
 					<sp who="Ovid" ana="narr">
-						<milestone ed="More" n="Peleus and the wolf" unit="tale" xml:id="e_pel3"/>
+						<milestone ed="More" n="Peleus and the wolf" unit="tale"/>
 						<milestone ed="P" unit="para"/>
 
 						<l n="346">Quae dum Lucifero genitus miracula narrat</l>
@@ -12374,7 +12374,7 @@
 						<l n="408">fata sinunt: Magnetas adit vagus exul et illic</l>
 						<l n="409">sumit ab Haemonio purgamina caedis Acasto.</l>
 						<milestone n="410" unit="card"/>
-						<milestone ed="Magnus" n="Ceyx et Alcyone. Somnus." unit="tale" xml:id="e_cey"/>
+						<milestone ed="Magnus" n="Ceyx et Alcyone. Somnus." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="410">Interea fratrisque sui fratremque secutis</l>
 						<l n="411">anxia prodigiis turbatus pectora Ceyx,</l>
@@ -12849,7 +12849,7 @@
 						<l n="747">Tunc iacet unda maris: ventos custodit et arcet</l>
 						<l n="748">Aeolus egressu praestatque nepotibus aequor.</l>
 						<milestone n="749" unit="card"/>
-						<milestone ed="Magnus" n="Aesacos." unit="tale" xml:id="e_aes1"/>
+						<milestone ed="Magnus" n="Aesacos." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="749">Hos aliquis senior iunctim freta lata volantes</l>
 						<l n="750">spectat et ad finem servatos laudat amores;</l>
@@ -12924,9 +12924,9 @@
 						<l n="795">aequor amat nomenque manet, quia mergitur, illi.»</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book12" n="12">
+				<div type="textpart" subtype="book" n="12">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Graeci Aulide. Fama." unit="tale" xml:id="e_gra"/>
+					<milestone ed="Magnus" n="Graeci Aulide. Fama." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Nescius adsumptis Priamus pater Aesacon alis</l>
@@ -12981,7 +12981,7 @@
 						<l n="36">et pariter Phoebes, pariter maris ira recessit,</l>
 						<l n="37">accipiunt ventos a tergo mille carinae</l>
 						<l n="38">multaque perpessae Phrygia potiuntur harena.</l>
-						<milestone ed="More" n="THE HOUSE OF FAME AND THE TROJAN CYGNUS" unit="tale" xml:id="e_cyg"/>
+						<milestone ed="More" n="THE HOUSE OF FAME AND THE TROJAN CYGNUS" unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="39">Orbe locus medio est inter terrasque fretumque</l>
 						<l n="40">caelestesque plagas, triplicis confinia mundi,</l>
@@ -13010,7 +13010,7 @@
 						<l n="62">Ipsa, quid in caelo rerum pelagoque geratur</l>
 						<l n="63">et tellure, videt totumque inquirit in orbem.</l>
 						<milestone n="64" unit="card"/>
-						<milestone ed="Magnus" n="Achilles et Cygnus." unit="tale" xml:id="e_ach1"/>
+						<milestone ed="Magnus" n="Achilles et Cygnus." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="64">Fecerat haec notum Graias cum milite forti</l>
 						<l n="65">adventare rates, neque inexspectatus in armis</l>
@@ -13144,7 +13144,7 @@
 						<l n="144">arma relicta videt; corpus deus aequoris albam</l>
 						<l n="145">contulit in volucrem, cuius modo nomen habebat.</l>
 						<milestone n="146" unit="card"/>
-						<milestone ed="Magnus" n="Caeneus." unit="tale" xml:id="e_cae"/>
+						<milestone ed="Magnus" n="Caeneus." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="146">Hic labor, haec requiem multorum pugna dierum</l>
 						<l n="147">attulit, et positis pars utraque substitit armis.</l>
@@ -13253,7 +13253,7 @@
 						<l n="209">exigit Atracides Peneiaque arva pererrat.</l>
 					</sp>
 					<milestone n="210" unit="card"/>
-					<milestone ed="Magnus" n="Centaurorum et Lapitharum pugna." unit="tale" xml:id="e_cen"/>
+					<milestone ed="Magnus" n="Centaurorum et Lapitharum pugna." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 
 					<sp who="Nestor" ana="narr">
@@ -13765,7 +13765,7 @@
 						<l n="535">quam data pars leto, partem fuga noxque removit.»</l>
 					</sp>
 					<milestone n="536" unit="card"/>
-					<milestone ed="Magnus" n="Periclymenus." unit="tale" xml:id="e_per1"/>
+					<milestone ed="Magnus" n="Periclymenus." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="536">Haec inter Lapithas et semihomines Centauros</l>
@@ -13820,13 +13820,13 @@
 						<l n="575">Nec tamen ulterius, quam fortia facta silendo</l>
 						<l n="576">ulciscor fratres: solida est mihi gratia tecum.»</l>
 					</sp>
-					<milestone ed="More" n="THE DEATH OF ACHILLES" unit="tale" xml:id="e_ach2"/>
+					<milestone ed="More" n="THE DEATH OF ACHILLES" unit="tale"/>
 					<sp who="Ovid" ana="narr">
 						<l n="577">Haec postquam dulci Neleius edidit ore,</l>
 						<l n="578">a sermone senis repetito munere Bacchi</l>
 						<l n="579">surrexere toris: nox est data cetera somno.</l>
 						<milestone n="580" unit="card"/>
-						<milestone ed="Magnus" n="Achillis mors." unit="tale" xml:id="e_ach3"/>
+						<milestone ed="Magnus" n="Achillis mors." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="580">At deus, aequoreas qui cuspide temperat undas,</l>
 						<l n="581">in volucrem corpus nati Phaethontida versum</l>
@@ -13898,9 +13898,9 @@
 						<l n="628">iussit et arbitrium litis traiecit in omnes.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book13" n="13">
+				<div type="textpart" subtype="book" n="13">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Armorum iudicium. Aiax." unit="tale" xml:id="e_aja"/>
+					<milestone ed="Magnus" n="Armorum iudicium. Aiax." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Consedere duces, et vulgi stante corona</l>
@@ -14426,7 +14426,7 @@
 						<l n="397">littera communis mediis pueroque viroque</l>
 						<l n="398">incripta est foliis, haec nominis, illa querellae.</l>
 						<milestone n="399" unit="card"/>
-						<milestone ed="Magnus" n="Hecuba." unit="tale" xml:id="e_hec"/>
+						<milestone ed="Magnus" n="Hecuba." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="399">Victor ad Hypsipyles patriam clarique Thoantis</l>
 						<l n="400">et veterum terras infames caede virorum</l>
@@ -14714,7 +14714,7 @@
 								ana="NA">Iovis</persName> coniunxque sororque</l>
 						<l n="575">eventus Hecubam meruisse negaverit illos.</l>
 						<milestone n="576" unit="card"/>
-						<milestone ed="Magnus" n="Memnon." unit="tale" xml:id="e_mem"/>
+						<milestone ed="Magnus" n="Memnon." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="576">Non vacat Aurorae, quamquam isdem faverat armis,</l>
 						<l n="577">cladibus et casu Troiaeque Hecubaeque moveri.</l>
@@ -14775,7 +14775,7 @@
 						<l n="621">luctibus est Aurora suis intenta, piasque</l>
 						<l n="622">nunc quoque dat lacrimas et toto rorat in orbe.</l>
 						<milestone n="623" unit="card"/>
-						<milestone ed="Magnus" n="Aeneas apud Anium. Scylla." unit="tale" xml:id="e_aen"/>
+						<milestone ed="Magnus" n="Aeneas apud Anium. Scylla." unit="tale"/>
 						<l n="623">Non tamen eversam Troiae cum moenibus esse</l>
 						<l n="624">spem quoque fata sinunt: sacra et, sacra altera, patrem</l>
 						<l n="625">fert umeris, venerabile onus, Cythereius heros:</l>
@@ -14888,7 +14888,7 @@
 						<l n="703">dantque sacerdoti custodem turis acerram,</l>
 						<l n="704">dant pateram claramque auro gemmisque coronam.</l>
 						<milestone n="705" unit="card"/>
-						<milestone ed="More" n="GALATEA AND POLYPHEMUS" unit="tale" xml:id="e_gal"/>
+						<milestone ed="More" n="GALATEA AND POLYPHEMUS" unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="705">Inde recordati Teucros a sanguine Teucri</l>
 						<l n="706">ducere principium, Cretam tenuere locique</l>
@@ -14957,7 +14957,7 @@
 						<l n="749">Nereis his contra resecuta Crataeide natam est:</l>
 					</sp>
 					<milestone n="750" unit="card"/>
-					<milestone ed="Magnus" n="Acis et Galatea. Polyphemus." unit="tale" xml:id="e_pol"/>
+					<milestone ed="Magnus" n="Acis et Galatea. Polyphemus." unit="tale"/>
 					<sp who="Galatea" ana="narr">
 						<l n="750">«Acis erat Fauno nymphaque Symaethide cretus,</l>
 						<l n="751">magna quidem patrisque sui matrisque voluptas,</l>
@@ -15183,7 +15183,7 @@
 						<l n="897">versus, et antiquum tenuerunt flumina nomen.»</l>
 					</sp>
 					<milestone n="898" unit="card"/>
-					<milestone ed="Magnus" n="Glaucus." unit="tale" xml:id="e_gla"/>
+					<milestone ed="Magnus" n="Glaucus." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="898">Desierat Galatea loqui, coetuque soluto</l>
@@ -15304,9 +15304,9 @@
 						<l n="968">prodigiosa petit Titanidos atria Circes.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book14" n="14">
+				<div type="textpart" subtype="book" n="14">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Scylla et Circe." unit="tale" xml:id="e_scy"/>
+					<milestone ed="Magnus" n="Scylla et Circe." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Iamque Giganteis iniectam faucibus Aetnen</l>
@@ -15424,7 +15424,7 @@
 						<l n="73">ni prius in scopulum, qui nunc quoque saxeus exstat,</l>
 						<l n="74">transformata foret: scopulum quoque navita vitat.</l>
 						<milestone n="75" unit="card"/>
-						<milestone ed="Magnus" n="Cercopes." unit="tale" xml:id="e_cer2"/>
+						<milestone ed="Magnus" n="Cercopes." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="75">Hunc ubi Troianae remis avidamque Charybdim</l>
 						<l n="76">evicere rates, cum iam prope litus adesset</l>
@@ -15456,7 +15456,7 @@
 						<l n="99">verborum et natae dira in periuria linguae:</l>
 						<l n="100">posse queri tantum rauco stridore reliquit.</l>
 						<milestone n="101" unit="card"/>
-						<milestone ed="Magnus" n="Sibylla." unit="tale" xml:id="e_sib"/>
+						<milestone ed="Magnus" n="Sibylla." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="101">Has ubi praeteriit et Parthenopeia dextra</l>
 						<l n="102">moenia deseruit, laeva de parte canori</l>
@@ -15563,7 +15563,7 @@
 						<l n="153">voce tamen noscar; vocem mihi fata relinquent.»</l>
 					</sp>
 					<milestone n="154" unit="card"/>
-					<milestone ed="Magnus" n="Achaemenides apud Polyphemum." unit="tale" xml:id="e_ach4"/>
+					<milestone ed="Magnus" n="Achaemenides apud Polyphemum." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="154">Talia convexum per iter memorante Sibylla</l>
@@ -15665,7 +15665,7 @@
 						<l n="222">et ducis et turbae, quae tecum est credita ponto.»</l>
 					</sp>
 					<milestone n="223" unit="card"/>
-					<milestone ed="Magnus" n="Macareus. Ulixes et Circe." unit="tale" xml:id="e_mac"/>
+					<milestone ed="Magnus" n="Macareus. Ulixes et Circe." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="223">Aeolon ille refert Tusco regnare profundo,</l>
@@ -15781,7 +15781,7 @@
 						<l n="305">bracchia sunt: flentem flentes amplectimur ipsi</l>
 						<l n="306">haeremusque ducis collo nec verba locuti</l>
 						<l n="307">ulla priora sumus quam nos testantia gratos.</l>
-						<milestone ed="More" n="PICUS AND CANENS" unit="tale" xml:id="e_pic"/>
+						<milestone ed="More" n="PICUS AND CANENS" unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="308">Annua nos illic tenuit mora, multaque praesens</l>
 						<l n="309">tempore tam longo vidi, multa auribus hausi,</l>
@@ -15806,7 +15806,7 @@
 						<l n="319">hinc quoque disce meae: tu dictis adice mentem!</l>
 					</sp>
 					<milestone n="320" unit="card"/>
-					<milestone ed="Magnus" n="Picus et Canens." unit="tale" xml:id="e_pic2"/>
+					<milestone ed="Magnus" n="Picus et Canens." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Circe's handmaiden" ana="narr">
 						<l n="320">Picus in Ausoniis, proles Saturnia terris</l>
@@ -16006,7 +16006,7 @@
 						<l n="440">Pertimui, fateor, nactusque hoc litus adhaesi.»</l>
 					</sp>
 					<milestone n="441" unit="card"/>
-					<milestone ed="Magnus" n="Diomedis socii. Oleaster." unit="tale" xml:id="e_dio"/>
+					<milestone ed="Magnus" n="Diomedis socii. Oleaster." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="441">Finierat Macareus. Urnaque Aeneia nutrix</l>
@@ -16101,7 +16101,7 @@
 						<l n="510">Vix equidem has sedes et Iapygis arida Dauni</l>
 						<l n="511">arva gener teneo minima cum parte meorum.»</l>
 					</sp>
-					<milestone ed="More" n="METAMORPHOSES RELATED TO AENEAS" unit="tale" xml:id="e_aen2"/>
+					<milestone ed="More" n="METAMORPHOSES RELATED TO AENEAS" unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="512">Hactenus Oenides. Venulus Calydonia regna</l>
@@ -16120,7 +16120,7 @@
 						<l n="525">quippe notam linguae bacis oleaster amaris</l>
 						<l n="526">exhibet: asperitas verborum cessit in illas.</l>
 						<milestone n="527" unit="card"/>
-						<milestone ed="Magnus" n="Aeneae naves. Ardea." unit="tale" xml:id="e_ard"/>
+						<milestone ed="Magnus" n="Aeneae naves. Ardea." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="527">Hinc ubi legati rediere, negata ferentes</l>
 						<l n="528">arma Aetola sibi, Rutuli sine viribus illis</l>
@@ -16191,7 +16191,7 @@
 						<l n="579">quae deceant urbem, nomen quoque mansit in illa</l>
 						<l n="580">urbis; et ipsa suis deplangitur Ardea pennis.</l>
 						<milestone n="581" unit="card"/>
-						<milestone ed="Magnus" n="Aeneas Indiges." unit="tale" xml:id="e_ind"/>
+						<milestone ed="Magnus" n="Aeneas Indiges." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="581">Iamque deos omnes ipsamque Aeneia virtus</l>
 						<l n="582">Iunonem veteres finire coegerat iras,</l>
@@ -16246,7 +16246,7 @@
 						<l n="607">contigit os fecitque deum, quem turba Quirini</l>
 						<l n="608">nuncupat Indigetem temploque arisque recepit.</l>
 						<milestone n="609" unit="card"/>
-						<milestone ed="Magnus" n="Pomona et Vertumnus. Anaxarete." unit="tale" xml:id="e_pom"/>
+						<milestone ed="Magnus" n="Pomona et Vertumnus. Anaxarete." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="609">Inde sub Ascanii dicione binominis Alba</l>
 						<l n="610">resque Latina fuit. Succedit Silvius illi.</l>
@@ -16364,7 +16364,7 @@
 						<l n="697">facta, quibus flecti facile et mitescere possis.</l>
 					</sp>
 					<milestone n="698" unit="card"/>
-					<milestone ed="More" n="ANAXARETE TRANSFORMED" unit="tale" xml:id="e_ana"/>
+					<milestone ed="More" n="ANAXARETE TRANSFORMED" unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Vertumnus as an old woman" ana="narr">
 						<l n="698">Viderat a veteris generosam sanguine Teucri</l>
@@ -16485,7 +16485,7 @@
 						<l n="771">capta dei nymphe est et mutua vulnera sensit.</l>
 					</sp>
 					<milestone n="772" unit="card"/>
-					<milestone ed="Magnus" n="Romulus et Hersilia." unit="tale" xml:id="e_rom"/>
+					<milestone ed="Magnus" n="Romulus et Hersilia." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 
 					<sp who="Ovid" ana="narr">
@@ -16603,9 +16603,9 @@
 						<l n="851">mutat Horamque vocat, quae nunc dea iuncta Quirino est.</l>
 					</sp>
 				</div>
-				<div type="textpart" subtype="book" xml:id="book15" n="15">
+				<div type="textpart" subtype="book" n="15">
 					<milestone n="1" unit="card"/>
-					<milestone ed="Magnus" n="Myscelus. Croton." unit="tale" xml:id="e_mys"/>
+					<milestone ed="Magnus" n="Myscelus. Croton." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="1">Quaeritur interea quis tantae pondera molis</l>
@@ -16712,7 +16712,7 @@
 						<l n="58">Talia constabat certa primordia fama</l>
 						<l n="59">esse loci positaeque Italis in finibus urbis.</l>
 						<milestone n="60" unit="card"/>
-						<milestone ed="Magnus" n="Pythagoras." unit="tale" xml:id="e_pyt1"/>
+						<milestone ed="Magnus" n="Pythagoras." unit="tale"/>
 						<l n="60">Vir fuit hic, ortu Samius, sed fugerat una</l>
 						<l n="61">et Samon et dominos odioque tyrannidis exsul</l>
 						<l n="62">sponte erat, isque, licet caeli regione remotos,</l>
@@ -17185,7 +17185,7 @@
 						<l n="478">ora vacent epulis alimentaque mitia carpant!»</l>
 					</sp>
 					<milestone n="479" unit="card"/>
-					<milestone ed="Magnus" n="Egeria. Hippolytus." unit="tale" xml:id="e_ege"/>
+					<milestone ed="Magnus" n="Egeria. Hippolytus." unit="tale"/>
 					<milestone ed="P" unit="para"/>
 					<sp who="Ovid" ana="narr">
 						<l n="479">Talibus atque aliis instructum pectora dictis</l>
@@ -17301,7 +17301,7 @@
 								>Phoebi</persName> gelidum de corpore fontem</l>
 						<l n="551">fecit et aeternas artus tenuavit in undas.</l>
 						<milestone n="552" unit="card"/>
-						<milestone ed="Magnus" n="Tages. Cipus." unit="tale" xml:id="e_tag"/>
+						<milestone ed="Magnus" n="Tages. Cipus." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="552">Et nymphas tetigit nova res, et Amazone natus</l>
 						<l n="553">haud aliter stupuit, quam cum Tyrrhenus arator</l>
@@ -17435,7 +17435,7 @@
 						<l n="620">cornuaque aeratis miram referentia formam</l>
 						<l n="621">postibus insculpunt, longum mansura per aevum.</l>
 						<milestone n="622" unit="card"/>
-						<milestone ed="Magnus" n="Aesculapius." unit="tale" xml:id="e_aes2"/>
+						<milestone ed="Magnus" n="Aesculapius." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="622">Pandite nunc, Musae, praesentia numina vatum</l>
 						<l n="623">(scitis enim, nec vos fallit spatiosa vetustas,)</l>
@@ -17596,7 +17596,7 @@
 						<l n="743">contulit et finem, specie caeleste resumpta,</l>
 						<l n="744">luctibus imposuit venitque salutifer urbi.</l>
 						<milestone n="745" unit="card"/>
-						<milestone ed="Magnus" n="Divus Iulius." unit="tale" xml:id="e_div"/>
+						<milestone ed="Magnus" n="Divus Iulius." unit="tale"/>
 						<milestone ed="P" unit="para"/>
 						<l n="745">Hic tamen accessit delubris advena nostris:</l>
 						<l n="746">Caesar in urbe sua deus est; quem Marte togaque</l>
