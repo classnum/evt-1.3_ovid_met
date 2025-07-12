@@ -175,7 +175,7 @@
             - 'info'  se si vogliono visualizzare le informazioni sul manoscritto al primo caricamento
             Qualsiasi altro valore varrà come 'image'
         -->
-  <xsl:variable name="left_frame_default_content" select="'info'"/>
+  <xsl:variable name="left_frame_default_content" select="'image'"/>
   <!-- EN: Set default content on first load for right frame choosing between text or text front info
         Possible values are:
         - 'text' if you want to see the text on first load
