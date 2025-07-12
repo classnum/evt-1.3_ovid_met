@@ -2,8 +2,12 @@
 <!DOCTYPE xml
   PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
    <headerInfo active="1"/>
    <front active="1"/>
+   <translation active="1">
+      <lang>fr</lang>
+   </translation>
    <liste>
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
    </liste>
