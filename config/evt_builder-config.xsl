@@ -322,7 +322,7 @@
     <!--<group label="Entités nommées" active="true">-->
     <group label="NAMED_ENTITIES" active="true">
       <persName active="true" label="Divinités"/>
-      <sp active="true" label="Narrateur"/>
+<!--      <sp active="true" label="Narrateur"/>-->
       <placeName active="false"/>
       <orgName active="false"/>
     </group>
