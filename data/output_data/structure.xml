@@ -12,10 +12,147 @@
       <edition data-key="interp">Interpretative</edition>
    </editions>
    <textpage>
-      <text n="ovid_metamorphoses" label="Ovide, Métamorphoses">
-         <pb/>
+      <text n="liberhynotheon" label="Liber Hynotheon">
+         <pb n="Titre">liber_hynotheon_front</pb>
+         <pb n="1">liber_hynotheon_ms_adiv_5fb1_page-1</pb>
+         <pb n="2">liber_hynotheon_ms_adiv_5fb1_page-2</pb>
+         <pb n="3">liber_hynotheon_ms_adiv_5fb1_page-3</pb>
+         <pb n="4">liber_hynotheon_ms_adiv_5fb1_page-4</pb>
+         <pb n="5">liber_hynotheon_ms_adiv_5fb1_page-5</pb>
+         <pb n="6">liber_hynotheon_ms_adiv_5fb1_page-6</pb>
+         <pb n="7">liber_hynotheon_ms_adiv_5fb1_page-7</pb>
+         <pb n="8">liber_hynotheon_ms_adiv_5fb1_page-8</pb>
+         <pb n="9">liber_hynotheon_ms_adiv_5fb1_page-9</pb>
+         <pb n="10">liber_hynotheon_ms_adiv_5fb1_page-10</pb>
+         <pb n="11">liber_hynotheon_ms_adiv_5fb1_page-11</pb>
+         <pb n="12">liber_hynotheon_ms_adiv_5fb1_page-12</pb>
+         <pb n="13">liber_hynotheon_ms_adiv_5fb1_page-13</pb>
+         <pb n="14">liber_hynotheon_ms_adiv_5fb1_page-14</pb>
+         <pb n="15">liber_hynotheon_ms_adiv_5fb1_page-15</pb>
+         <pb n="16">liber_hynotheon_ms_adiv_5fb1_page-16</pb>
+         <pb n="17">liber_hynotheon_ms_adiv_5fb1_page-17</pb>
+         <pb n="18">liber_hynotheon_ms_adiv_5fb1_page-18</pb>
+         <pb n="19">liber_hynotheon_ms_adiv_5fb1_page-19</pb>
+         <pb n="20">liber_hynotheon_ms_adiv_5fb1_page-20</pb>
+         <pb n="21">liber_hynotheon_ms_adiv_5fb1_page-21</pb>
+         <pb n="22">liber_hynotheon_ms_adiv_5fb1_page-22</pb>
+         <pb n="23">liber_hynotheon_ms_adiv_5fb1_page-23</pb>
+         <pb n="24">liber_hynotheon_ms_adiv_5fb1_page-24</pb>
+         <pb n="25">liber_hynotheon_ms_adiv_5fb1_page-25</pb>
+         <pb n="26">liber_hynotheon_ms_adiv_5fb1_page-26</pb>
+         <pb n="27">liber_hynotheon_ms_adiv_5fb1_page-27</pb>
+         <pb n="28">liber_hynotheon_ms_adiv_5fb1_page-28</pb>
+         <pb n="29">liber_hynotheon_ms_adiv_5fb1_page-29</pb>
+         <pb n="30">liber_hynotheon_ms_adiv_5fb1_page-30</pb>
+         <pb n="31">liber_hynotheon_ms_adiv_5fb1_page-31</pb>
+         <pb n="32">liber_hynotheon_ms_adiv_5fb1_page-32</pb>
+         <pb n="33">liber_hynotheon_ms_adiv_5fb1_page-33</pb>
       </text>
    </textpage>
-   <pages/>
+   <pages>
+      <pair>
+         <pb n="Titre">liber_hynotheon_front</pb>
+      </pair>
+      <pair/>
+      <pair>
+         <pb n="1">liber_hynotheon_ms_adiv_5fb1_page-1</pb>
+      </pair>
+      <pair>
+         <pb n="2">liber_hynotheon_ms_adiv_5fb1_page-2</pb>
+      </pair>
+      <pair>
+         <pb n="3">liber_hynotheon_ms_adiv_5fb1_page-3</pb>
+      </pair>
+      <pair>
+         <pb n="4">liber_hynotheon_ms_adiv_5fb1_page-4</pb>
+      </pair>
+      <pair>
+         <pb n="5">liber_hynotheon_ms_adiv_5fb1_page-5</pb>
+      </pair>
+      <pair>
+         <pb n="6">liber_hynotheon_ms_adiv_5fb1_page-6</pb>
+      </pair>
+      <pair>
+         <pb n="7">liber_hynotheon_ms_adiv_5fb1_page-7</pb>
+      </pair>
+      <pair>
+         <pb n="8">liber_hynotheon_ms_adiv_5fb1_page-8</pb>
+      </pair>
+      <pair>
+         <pb n="9">liber_hynotheon_ms_adiv_5fb1_page-9</pb>
+      </pair>
+      <pair>
+         <pb n="10">liber_hynotheon_ms_adiv_5fb1_page-10</pb>
+      </pair>
+      <pair>
+         <pb n="11">liber_hynotheon_ms_adiv_5fb1_page-11</pb>
+      </pair>
+      <pair>
+         <pb n="12">liber_hynotheon_ms_adiv_5fb1_page-12</pb>
+      </pair>
+      <pair>
+         <pb n="13">liber_hynotheon_ms_adiv_5fb1_page-13</pb>
+      </pair>
+      <pair>
+         <pb n="14">liber_hynotheon_ms_adiv_5fb1_page-14</pb>
+      </pair>
+      <pair>
+         <pb n="15">liber_hynotheon_ms_adiv_5fb1_page-15</pb>
+      </pair>
+      <pair>
+         <pb n="16">liber_hynotheon_ms_adiv_5fb1_page-16</pb>
+      </pair>
+      <pair>
+         <pb n="17">liber_hynotheon_ms_adiv_5fb1_page-17</pb>
+      </pair>
+      <pair>
+         <pb n="18">liber_hynotheon_ms_adiv_5fb1_page-18</pb>
+      </pair>
+      <pair>
+         <pb n="19">liber_hynotheon_ms_adiv_5fb1_page-19</pb>
+      </pair>
+      <pair>
+         <pb n="20">liber_hynotheon_ms_adiv_5fb1_page-20</pb>
+      </pair>
+      <pair>
+         <pb n="21">liber_hynotheon_ms_adiv_5fb1_page-21</pb>
+      </pair>
+      <pair>
+         <pb n="22">liber_hynotheon_ms_adiv_5fb1_page-22</pb>
+      </pair>
+      <pair>
+         <pb n="23">liber_hynotheon_ms_adiv_5fb1_page-23</pb>
+      </pair>
+      <pair>
+         <pb n="24">liber_hynotheon_ms_adiv_5fb1_page-24</pb>
+      </pair>
+      <pair>
+         <pb n="25">liber_hynotheon_ms_adiv_5fb1_page-25</pb>
+      </pair>
+      <pair>
+         <pb n="26">liber_hynotheon_ms_adiv_5fb1_page-26</pb>
+      </pair>
+      <pair>
+         <pb n="27">liber_hynotheon_ms_adiv_5fb1_page-27</pb>
+      </pair>
+      <pair>
+         <pb n="28">liber_hynotheon_ms_adiv_5fb1_page-28</pb>
+      </pair>
+      <pair>
+         <pb n="29">liber_hynotheon_ms_adiv_5fb1_page-29</pb>
+      </pair>
+      <pair>
+         <pb n="30">liber_hynotheon_ms_adiv_5fb1_page-30</pb>
+      </pair>
+      <pair>
+         <pb n="31">liber_hynotheon_ms_adiv_5fb1_page-31</pb>
+      </pair>
+      <pair>
+         <pb n="32">liber_hynotheon_ms_adiv_5fb1_page-32</pb>
+      </pair>
+      <pair>
+         <pb n="33">liber_hynotheon_ms_adiv_5fb1_page-33</pb>
+      </pair>
+   </pages>
    <idno/>
 </xml>
