@@ -246,7 +246,7 @@
   <!-- EN: Show/Hide Edition level selector in interface -->
   <!-- IT: Mostra/Nascondi selettore Livello/i Edizione nell'interfaccia web -->
   <!-- default: true() -->
-  <xsl:param name="edition_level_selector" select="true()"/>
+  <xsl:param name="edition_level_selector" select="false()"/>
   <!-- IT: Choose page selector position -->
   <!-- IT: Scegli posizione Selettore pagina -->
   <!-- "left" or "right" | Default: "right" -->
