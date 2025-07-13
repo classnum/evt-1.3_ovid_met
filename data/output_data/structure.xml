@@ -2,22 +2,79 @@
 <!DOCTYPE xml
   PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <xml xmlns="http://www.w3.org/1999/xhtml">
-   <msDesc active="1"/>
    <headerInfo active="1"/>
-   <front active="1"/>
-   <translation active="1"/>
    <liste>
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
    </liste>
    <editions>
-      <edition data-key="dipl">Diplomatic</edition>
       <edition data-key="interp">Interpretative</edition>
    </editions>
    <textpage>
       <text n="ovid_metamorphoses" label="Ovide, Métamorphoses">
          <pb/>
+         <pb n="1">pb_book1</pb>
+         <pb n="2">pb_book2</pb>
+         <pb n="3">pb_book3</pb>
+         <pb n="4">pb_book4</pb>
+         <pb n="5">pb_book5</pb>
+         <pb n="6">pb_book6</pb>
+         <pb n="7">pb_book7</pb>
+         <pb n="8">pb_book8</pb>
+         <pb n="9">pb_book9</pb>
+         <pb n="10">pb_book10</pb>
+         <pb n="11">pb_book11</pb>
+         <pb n="12">pb_book12</pb>
+         <pb n="13">pb_book13</pb>
+         <pb n="14">pb_book14</pb>
+         <pb n="15">pb_book15</pb>
       </text>
    </textpage>
-   <pages/>
+   <pages>
+      <pair>
+         <pb n="1">pb_book1</pb>
+      </pair>
+      <pair>
+         <pb n="2">pb_book2</pb>
+      </pair>
+      <pair>
+         <pb n="3">pb_book3</pb>
+      </pair>
+      <pair>
+         <pb n="4">pb_book4</pb>
+      </pair>
+      <pair>
+         <pb n="5">pb_book5</pb>
+      </pair>
+      <pair>
+         <pb n="6">pb_book6</pb>
+      </pair>
+      <pair>
+         <pb n="7">pb_book7</pb>
+      </pair>
+      <pair>
+         <pb n="8">pb_book8</pb>
+      </pair>
+      <pair>
+         <pb n="9">pb_book9</pb>
+      </pair>
+      <pair>
+         <pb n="10">pb_book10</pb>
+      </pair>
+      <pair>
+         <pb n="11">pb_book11</pb>
+      </pair>
+      <pair>
+         <pb n="12">pb_book12</pb>
+      </pair>
+      <pair>
+         <pb n="13">pb_book13</pb>
+      </pair>
+      <pair>
+         <pb n="14">pb_book14</pb>
+      </pair>
+      <pair>
+         <pb n="15">pb_book15</pb>
+      </pair>
+   </pages>
    <idno/>
 </xml>
