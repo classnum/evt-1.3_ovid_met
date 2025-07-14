@@ -113,8 +113,8 @@
   <!-- IT: E' possibile rimuovere la produzione di pagine di una determinata edizione
                     semplicemente rimuovendo la parte testuale dell'item corrispondente. -->
   <xsl:variable name="edition_array" as="element()*">
-<!--    <edition>Diplomatic</edition>-->
-    <edition></edition>
+    <!--    <edition>Diplomatic</edition>-->
+    <edition/>
     <edition>Interpretative</edition>
     <!-- EN: To add a new edition it is necessary to add a new line here and -forcedly- a
                 declaration concerning output file in the modules/evt_builder-main.xsl file,
@@ -284,7 +284,7 @@
   <!-- EN: On/Off Lines/Prose visualization Button -->
   <!-- IT: Attiva/Disattiva Bottone di visualizzazione Versi/Prosa  -->
   <!-- default: true() -->
-  <xsl:param name="prose_verses_toggler" select="false()"/>
+  <xsl:param name="prose_verses_toggler" select="true()"/>
   <!-- EN: On/Off Tooltip indicating language encoded with @xml:lang -->
   <!-- IT: Attiva/Disattiva Tooltip per la visualizzazione della lingua degli elementi che presentano @xml:lang  -->
   <!-- default: false() -->
