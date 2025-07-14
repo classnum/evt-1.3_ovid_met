@@ -12,6 +12,7 @@
    <textpage>
       <text n="ovid_metamorphoses" label="Ovide, Métamorphoses">
          <pb/>
+         <pb n="Titre">ovid_metamorphoses_front</pb>
          <pb n="1">pb_book1</pb>
          <pb n="2">pb_book2</pb>
          <pb n="3">pb_book3</pb>
@@ -30,6 +31,9 @@
       </text>
    </textpage>
    <pages>
+      <pair>
+         <pb n="Titre">ovid_metamorphoses_front</pb>
+      </pair>
       <pair>
          <pb n="1">pb_book1</pb>
       </pair>

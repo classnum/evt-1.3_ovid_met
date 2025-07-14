@@ -15,7 +15,7 @@
       <link rel="stylesheet" type="text/css" href="./css/evt-icons.css">
       <link rel="stylesheet" type="text/css" href="./css/BRnav.css"><script type="text/javascript" src="./js/plugin/jquery-lang.js"></script><script type="text/javascript" src="./config/langpack/en.js"></script><script type="text/javascript" src="./config/langpack/it.js"></script><script type="text/javascript" src="./config/langpack/fr.js"></script><script type="text/javascript" src="./config/langpack/de.js"></script><script type="text/javascript" src="./config/langpack/cs.js"></script><link rel="stylesheet" type="text/css" href="./config/evt_builder-custom-styles.css">
    </head>
-   <body>
+   <body data-prose-verses-feature="active">
       <div id="global_wrapper" data-image-extension="jpg">
          <div id="global_loading">
             <div><i class="fa fa-spinner fa-spin fa-lg"></i><span id="loading_msg">
@@ -180,7 +180,7 @@
                   </div>
                   <div id="search_foot-add" class="bottomBoxFooter"></div>
                </div>
-               <div id="text_tool-add" class="bottom-menu hidden"><span id="search_link-add" class="mainButtons searchButton" data-boxsuffix="-add" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="span_list_select-add" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
+               <div id="text_tool-add" class="bottom-menu hidden"><span id="toggleVersesProseBtn-add" class="mainButtons" data-active-status="prose" data-boxsuffix="" onclick="toggleProseVerses(this)" title="versi/prosa" lang="def"><span lang="def">VERSES</span><i class="fa fa-align-left" aria-hidden="true"></i></span><span id="search_link-add" class="mainButtons searchButton" data-boxsuffix="-add" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="span_list_select-add" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
                      <div class="main_list_select"><span data-value="none" class="label_selected" lang="def">NO_SELECTION</span><div class="open_select open_up"><i class="fa fa-sort-asc"></i></div>
                         <div class="option_container up"><span lang="def" class="groupTitle" title="NAMED_ENTITIES"><span lang="def">NAMED_ENTITIES</span></span><div class="option" data-value="persName" lang="def" title="persName" data-label="Divinités"><i class="fa fa-circle filter_color"></i><span lang="def">Divinités</span></div>
                            <div class="option" data-value="all" lang="def">SELECT_ALL</div>
@@ -231,7 +231,7 @@
                            </div>
                         </div></span><div id="sortingOrder" class="mainButtons" title="SORT_ORDER" lang="def" onclick="toggleSortingOrder(this)"><span lang="def" data-lang="ASCENDING_ORDER" data-button-sort="asc">ASCENDING_ORDER</span><i class="fa fa-sort-amount-asc"></i></div>
                   </div>
-               </div><span id="inside_left_arrow" title="PREVIOUS_DOCUMENT" lang="def"><i class="fa fa-chevron-up"></i></span><span id="inside_right_arrow" title="NEXT_DOCUMENT" lang="def"><i class="fa fa-chevron-down"></i></span><div id="text_tool" class="bottom-menu"><span id="search_link" class="mainButtons searchButton" data-boxsuffix="" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="list_link" class="mainButtons" title="OPEN_LISTS" lang="def"><span lang="def">LISTS</span><i class="fa fa-list"></i></span><span id="span_list_select" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
+               </div><span id="inside_left_arrow" title="PREVIOUS_DOCUMENT" lang="def"><i class="fa fa-chevron-up"></i></span><span id="inside_right_arrow" title="NEXT_DOCUMENT" lang="def"><i class="fa fa-chevron-down"></i></span><div id="text_tool" class="bottom-menu"><span id="toggleVersesProseBtn" class="mainButtons" data-active-status="prose" data-boxsuffix="" onclick="toggleProseVerses(this)" title="versi/prosa" lang="def"><span lang="def">Versi</span><i class="fa fa-align-left" aria-hidden="true"></i></span><span id="search_link" class="mainButtons searchButton" data-boxsuffix="" title="OPEN_SEARCH" lang="def"><span lang="def">SEARCH</span><i class="fa fa-search"></i></span><span id="list_link" class="mainButtons" title="OPEN_LISTS" lang="def"><span lang="def">LISTS</span><i class="fa fa-list"></i></span><span id="span_list_select" class="like_select filter" title="SELECTOR_ENTITIES" lang="def">
                      <div class="main_list_select"><span data-value="none" class="label_selected" lang="def">NO_SELECTION</span><div class="open_select open_up"><i class="fa fa-sort-asc"></i></div>
                         <div class="option_container up"><span lang="def" class="groupTitle" title="NAMED_ENTITIES"><span lang="def">NAMED_ENTITIES</span></span><div class="option" data-value="persName" lang="def" title="persName" data-label="Divinités"><i class="fa fa-circle filter_color"></i><span lang="def">Divinités</span></div>
                            <div class="option" data-value="all" lang="def">SELECT_ALL</div>
