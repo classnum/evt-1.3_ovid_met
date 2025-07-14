@@ -7,7 +7,7 @@
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
    </liste>
    <editions>
-      <edition data-key="interp">Interpretative</edition>
+      <edition data-key="dipl">Diplomatic</edition>
    </editions>
    <textpage>
       <text n="ovid_metamorphoses" label="Ovide, Métamorphoses">
