@@ -78,7 +78,8 @@
 		</profileDesc>
 		<revisionDesc>
 			<change who="apenture" when="2024-08-12">Added the element persName to encode the
-				presence of deities in Book I to XV. Attributes are described in the GitHub repository:
+				presence of deities in Book I to XV. Attributes are described in the GitHub
+				repository:
 				https://github.com/pax3l/m2_ovid_deities_analysis_for_quarto/blob/main/README.md.</change>
 			<change who="nrakofsky" when="2022-01-12">Added "ana = arg" tags for argumentative
 				speeches</change>
@@ -149,7 +150,7 @@
 				<lb/>
 				<lb/>
 				<lb/>
-				<byline>Encodage d’<lb/><hi>Axelle Penture</hi></byline>
+				<byline>Encodage d’<hi>Axelle Penture</hi></byline>
 				<lb/>
 				<lb/>
 				<byline>dans le cadre de son mémoire de master 2</byline>
@@ -162,11 +163,12 @@
 					<lb/>
 					<date>2025</date>
 				</docImprint>
+<!--				<pb type="end"/>-->
 			</titlePage>
 		</front>
 
 		<body>
-			<head>Ovide, Les Métamorphoses</head>
+<!--			<head>Ovide, Les Métamorphoses</head>-->
 			<pb n="1" xml:id="pb_book1"/>
 			<div type="book" n="1" xml:id="book1">
 				<!-- <milestone ed="Magnus" n="Invocatio." unit="tale"/> -->
