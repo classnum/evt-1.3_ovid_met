@@ -19,7 +19,7 @@ On the image side, several features such as a magnifying lens, a general zoom, i
 ## Installation
 EVT doesn't need an installation process: just uncompress the archive in a suitable folder and you are ready to go.
 	
-###Configuration
+### Configuration
 There are several ways to customize EVT, the most important one is to modify the builder_pack/modules/evt_builder-conf.xsl file to configure the existing parameters so that the UI layout matches your edition data. Refer to the EVT manual (doc folder) for more information about this file and other ways of customizing EVT output.
 
 You can also use the [online configurator](http://evt.labcd.unipi.it/evt1-config/).
